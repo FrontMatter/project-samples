@@ -1,9 +1,10 @@
+---
 #
 # Learn more about this Gitpod configuration file in the documentation at https://www.gitpod.io/docs/configuration
 #
 ports:
   - port: 3000
-    onOpen: open-preview
+    onOpen: open-browser
 
 # List the start up tasks. You can start them in parallel in multiple terminals. See https://www.gitpod.io/docs/config-start-tasks
 tasks:
@@ -18,3 +19,4 @@ tasks:
 vscode:
   extensions:
     - svelte.svelte-vscode
+    - bradlc.vscode-tailwindcss
