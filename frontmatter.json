@@ -3,10 +3,13 @@
   "frontMatter.framework.id": "sveltekit",
   "frontMatter.preview.host": "https://3000-zivbk1-projectsamples-e2wgaitu24t.ws-us27.gitpod.io",
   "frontMatter.content.autoUpdateDate": true,
+  "frontMatter.dashboard.openOnStart": true,
+  "frontMatter.content.fmHighlight": true,
   "frontMatter.content.publicFolder": "static",
   "frontMatter.dashboard.mediaSnippet": [
     "<Figure src=\"{mediaUrl}\" title=\"{caption}\" align=\"center\" class=\"max-w-full\" />"
   ],
+  "frontMatter.content.supportedFileTypes": [ "md", "markdown", "mdx", "svx" ],
   "frontMatter.content.sorting": [
     {
       "title": "Date (asc)",
@@ -36,8 +39,7 @@
   "frontMatter.content.pageFolders": [
     {
       "title": "Blog",
-      "path": "[[workspace]]/sveltekit/src/routes/blog",
-      "excludeSubdir": true
+      "path": "sveltekit/src/routes/blog"
     }
   ],
   "frontMatter.content.draftField": {
@@ -53,12 +55,7 @@
           "title": "Is Draft?",
           "name": "draft",
           "type": "draft"
-        },
-        {
-          "title": "Is Newsletter?",
-          "name": "newsletter",
-          "type": "boolean"
-        },
+        }
         {
           "title": "Title",
           "name": "title",
@@ -94,6 +91,5 @@
         }
       ]
     }
-  ],
-  "frontMatter.dashboard.openOnStart": true
+  ]
 }
