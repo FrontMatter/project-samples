@@ -55,7 +55,7 @@
           "title": "Is Draft?",
           "name": "draft",
           "type": "draft"
-        }
+        },
         {
           "title": "Title",
           "name": "title",
