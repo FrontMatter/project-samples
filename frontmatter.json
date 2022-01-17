@@ -1,7 +1,7 @@
 {
   "$schema": "https://beta.frontmatter.codes/frontmatter.schema.json",
   "frontMatter.framework.id": "sveltekit",
-  "frontMatter.preview.host": "https://3000-rontatter-projectsamples-7r20eqmagjj.ws-us27.gitpod.io/",
+  "frontMatter.preview.host": "https://3000-zivbk1-projectsamples-e2wgaitu24t.ws-us27.gitpod.io",
   "frontMatter.content.autoUpdateDate": true,
   "frontMatter.content.publicFolder": "static",
   "frontMatter.dashboard.mediaSnippet": [
