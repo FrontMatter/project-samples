@@ -1,0 +1,99 @@
+{
+  "$schema": "https://beta.frontmatter.codes/frontmatter.schema.json",
+  "frontMatter.framework.id": "sveltekit",
+  "frontMatter.preview.host": "https://3000-rontatter-projectsamples-7r20eqmagjj.ws-us27.gitpod.io/",
+  "frontMatter.content.autoUpdateDate": true,
+  "frontMatter.content.publicFolder": "static",
+  "frontMatter.dashboard.mediaSnippet": [
+    "<Figure src=\"{mediaUrl}\" title=\"{caption}\" align=\"center\" class=\"max-w-full\" />"
+  ],
+  "frontMatter.content.sorting": [
+    {
+      "title": "Date (asc)",
+      "name": "date",
+      "order": "asc",
+      "type": "date"
+    },
+    {
+      "title": "Date (desc)",
+      "name": "date",
+      "order": "desc",
+      "type": "date"
+    },
+    {
+      "title": "Title (asc)",
+      "name": "title",
+      "order": "asc",
+      "type": "string"
+    },
+    {
+      "title": "Title (desc)",
+      "name": "title",
+      "order": "desc",
+      "type": "string"
+    }
+  ],
+  "frontMatter.content.pageFolders": [
+    {
+      "title": "Blog",
+      "path": "[[workspace]]/sveltekit/src/routes/blog",
+      "excludeSubdir": true
+    }
+  ],
+  "frontMatter.content.draftField": {
+    "name": "draft",
+    "type": "boolean"
+  },
+  "frontMatter.taxonomy.contentTypes": [
+    {
+      "name": "blog",
+      "previewPath": "blog",
+      "fields": [
+        {
+          "title": "Is Draft?",
+          "name": "draft",
+          "type": "draft"
+        },
+        {
+          "title": "Is Newsletter?",
+          "name": "newsletter",
+          "type": "boolean"
+        },
+        {
+          "title": "Title",
+          "name": "title",
+          "type": "string",
+          "single": true
+        },
+        {
+          "title": "Description",
+          "name": "description",
+          "type": "string"
+        },
+        {
+          "title": "Featured image",
+          "name": "image",
+          "type": "image",
+          "isPreviewImage": true
+        },
+        {
+          "title": "Publishing date",
+          "name": "date",
+          "type": "datetime"
+        },
+        {
+          "title": "Last modified date",
+          "name": "lastmod",
+          "type": "datetime"
+        },
+        {
+          "title": "Content type",
+          "name": "type",
+          "type": "string",
+          "hidden": true
+        }
+      ]
+    }
+  ],
+  "frontMatter.dashboard.openOnStart": true
+}

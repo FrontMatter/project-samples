@@ -9,10 +9,11 @@ ports:
 # List the start up tasks. You can start them in parallel in multiple terminals. See https://www.gitpod.io/docs/config-start-tasks
 tasks:
   - name: "SvelteKit Example"
+    before: cd sveltekit && npm install && sudo apt install git-restore-mtime
     init: |
-      cd sveltekit
-      npm install
-      npm run dev
+      git restore-mtime --force
+      gpUrl=$(gp url 3000);jq --arg gpurl "$gpUrl" '.["frontMatter.preview.host"] = $gpurl' frontmatter.json > tmp.$$.json
+      mv tmp.$$.json frontmatter.json
     command: |
       export HMR_HOST=`gp url 3000`
 
@@ -20,3 +21,4 @@ vscode:
   extensions:
     - svelte.svelte-vscode
     - bradlc.vscode-tailwindcss
+    - eliostruyf.vscode-front-matter-beta
