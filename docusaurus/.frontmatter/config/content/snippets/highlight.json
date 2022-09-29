@@ -1,0 +1,27 @@
+{
+  "description": "Creates a code highlighting box",
+  "body": [
+    "{{< highlight \"[[type]]\" \"linenos=table,noclasses=false\" >}}",
+    "  [[selection]]",
+    "{{< / highlight >}}"
+  ],
+  "fields": [
+    {
+      "name": "type",
+      "title": "Language",
+      "type": "choice",
+      "choices": [
+        "html",
+        "css",
+        "typescript"
+      ],
+      "default": "typescript"
+    },
+    {
+      "name": "selection",
+      "title": "Selection",
+      "type": "string",
+      "default": "FM_SELECTED_TEXT"
+    }
+  ]
+}

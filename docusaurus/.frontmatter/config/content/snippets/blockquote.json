@@ -1,0 +1,22 @@
+{
+  "body": "{{< blockquote type=\"[[type]]\" text=\"[[&selection]]\" >}}",
+  "description": "Creates a blockquote",
+  "fields": [
+    {
+      "name": "type",
+      "title": "Type",
+      "type": "choice",
+      "choices": [
+        "info",
+        "important"
+      ],
+      "default": "info"
+    },
+    {
+      "name": "selection",
+      "title": "Selection",
+      "type": "string",
+      "default": "FM_SELECTED_TEXT"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "body": [
+    "{{< video \"[[&mediaUrl]]\" \"[[caption]]\" >}}"
+  ],
+  "isMediaSnippet": true
+}

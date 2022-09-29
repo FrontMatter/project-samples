@@ -1,0 +1,22 @@
+{
+  "name": "post",
+  "pageBundle": false,
+  "previewPath": null,
+  "fields": [
+    {
+      "title": "Title",
+      "name": "title",
+      "type": "string"
+    },
+    {
+      "title": "Description",
+      "name": "description",
+      "type": "string"
+    },
+    {
+      "title": "Tags",
+      "name": "tags",
+      "type": "tags"
+    }
+  ]
+}

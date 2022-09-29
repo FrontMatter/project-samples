@@ -1,0 +1,13 @@
+{
+  "body": "{{< caption-new \"[[&mediaUrl]]\" \"[[caption]]\" \"[[customCaption]]\" >}}",
+  "isMediaSnippet": true,
+  "description": "",
+  "fields": [
+    {
+      "name": "customCaption",
+      "title": "Custom caption",
+      "type": "string",
+      "default": "FM_SELECTED_TEXT"
+    }
+  ]
+}

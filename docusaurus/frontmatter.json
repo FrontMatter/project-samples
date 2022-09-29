@@ -1,0 +1,12 @@
+{
+  "$schema": "https://beta.frontmatter.codes/frontmatter.schema.json",
+  "frontMatter.framework.id": "docusaurus",
+  "frontMatter.content.publicFolder": "static",
+  "frontMatter.taxonomy.tags": [
+    "docusaurus",
+    "facebook",
+    "hello",
+    "hola"
+  ],
+  "frontMatter.taxonomy.categories": []
+}
