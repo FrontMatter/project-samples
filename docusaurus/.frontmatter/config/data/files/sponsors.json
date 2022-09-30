@@ -1,0 +1,9 @@
+{
+  "$schema": "https://beta.frontmatter.codes/config/data.files.schema.json",
+  "id": "sponsors",
+  "title": "Sponsors",
+  "file": "[[workspace]]/data/sponsors.json",
+  "fileType": "json",
+  "labelField": "name",
+  "type": "sponsor"
+}

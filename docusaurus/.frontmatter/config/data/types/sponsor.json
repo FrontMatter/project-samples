@@ -1,0 +1,26 @@
+{
+  "$schema": "https://beta.frontmatter.codes/config/data.types.schema.json",
+  "id": "sponsor",
+  "schema": {
+    "title": "Sponsor",
+    "type": "object",
+    "required": [
+      "name",
+      "url"
+    ],
+    "properties": {
+      "name": {
+        "type": "string",
+        "title": "Name"
+      },
+      "url": {
+        "type": "string",
+        "title": "URL"
+      },
+      "description": {
+        "type": "string",
+        "title": "Description"
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "$schema": "https://beta.frontmatter.codes/config/data.types.schema.json",
+  "id": "author",
+  "schema": {
+    "title": "Author",
+    "type": "object",
+    "required": [
+      "firstName",
+      "lastName"
+    ],
+    "properties": {
+      "firstName": {
+        "type": "string",
+        "title": "First name"
+      },
+      "lastName": {
+        "type": "string",
+        "title": "Last name"
+      },
+      "website": {
+        "type": "string",
+        "title": "Website URL"
+      }
+    }
+  }
+}

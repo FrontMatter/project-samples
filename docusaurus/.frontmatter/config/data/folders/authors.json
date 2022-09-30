@@ -1,0 +1,8 @@
+{
+  "$schema": "https://beta.frontmatter.codes/config/data.folders.schema.json",
+  "id": "authors",
+  "labelField": "firstName",
+  "path": "[[workspace]]/data/authors",
+  "singleEntry": true,
+  "type": "author"
+}

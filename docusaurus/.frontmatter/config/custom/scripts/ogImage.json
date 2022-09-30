@@ -1,0 +1,6 @@
+{
+  "$schema": "https://beta.frontmatter.codes/config/custom.scripts.schema.json",
+  "title": "Generate open graph image",
+  "script": "./.frontmatter/config/custom/scripts/ogImage.js",
+  "command": "~/.nvm/versions/node/v16.13.2/bin/node"
+}
