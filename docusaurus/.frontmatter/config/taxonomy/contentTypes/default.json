@@ -1,4 +1,5 @@
 {
+  "$schema": "https://beta.frontmatter.codes/config/taxonomy.contenttype.schema.json",
   "name": "default",
   "pageBundle": false,
   "previewPath": null,
