@@ -1,4 +1,5 @@
 {
+  "$schema": "https://beta.frontmatter.codes/config/content.snippets.schema.json",
   "description": "Creates a code highlighting box",
   "body": [
     "{{< highlight \"[[type]]\" \"linenos=table,noclasses=false\" >}}",
