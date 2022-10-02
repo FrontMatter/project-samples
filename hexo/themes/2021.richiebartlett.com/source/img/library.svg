@@ -1,0 +1,1538 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.1" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 559.07 372.85"
+	 style="enable-background:new 0 0 559.07 372.85;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:url(#SVGID_00000137098142902529746810000011227696907539019154_);}
+	.st2{fill:url(#SVGID_00000178184683876182632390000018041490888932439468_);}
+	.st3{fill:url(#SVGID_00000031919957710304906640000004955777732828418223_);}
+	.st4{fill:url(#SVGID_00000041984852873042692060000006385667613011690915_);}
+	.st5{fill:#CA5A46;}
+	.st6{fill:url(#SVGID_00000173850833709557197780000002078112441447076757_);}
+	.st7{fill:url(#SVGID_00000064326376012918721040000012739817119970022560_);}
+	.st8{fill:#E88B57;}
+	.st9{opacity:0.3;}
+	.st10{fill:#A33847;}
+	.st11{opacity:0.5;fill:#BB9C8B;}
+	.st12{opacity:0.2;fill:#8E1832;}
+	.st13{fill:url(#SVGID_00000019659652906026766280000008778851337903844231_);}
+	.st14{fill:url(#SVGID_00000031191867913500640000000007347807097740681100_);}
+	.st15{fill:#842C32;}
+	.st16{fill:url(#SVGID_00000028287782641337898220000008550930516404242347_);}
+	.st17{fill:url(#SVGID_00000121263144861827500630000007778003549975249043_);}
+	.st18{fill:url(#SVGID_00000027594522637808121120000009386267889110474643_);}
+	.st19{fill:#CD6440;}
+	.st20{fill:#973632;}
+	.st21{fill:url(#SVGID_00000173148329502631626730000003988560124124343977_);}
+	.st22{fill:url(#SVGID_00000130616334263857114320000000654487482332911034_);}
+	.st23{fill:#7C2B32;}
+	.st24{fill:#B44441;}
+	.st25{opacity:0.5;fill:#D18C90;}
+	.st26{fill:#722732;}
+	.st27{fill:url(#SVGID_00000142856941585788595600000004416513187573854141_);}
+	.st28{fill:url(#SVGID_00000115508163537937961060000006913208767030966692_);}
+	.st29{fill:url(#SVGID_00000013902468784270372590000000352865320745201326_);}
+	.st30{fill:url(#SVGID_00000106130273058167381180000008295000898429802376_);}
+	.st31{fill:#561A31;}
+	.st32{fill:url(#SVGID_00000047778639147435833930000014822115816164514949_);}
+	.st33{fill:url(#SVGID_00000133510212009096412220000009658213057100145820_);}
+	.st34{opacity:0.5;fill:#A77A9F;}
+	.st35{fill:#853132;}
+	.st36{fill:#93403A;}
+	.st37{fill:#7A2D32;}
+	.st38{fill:#A04831;}
+	.st39{fill:#953B32;}
+	.st40{fill:url(#SVGID_00000070835622484208175450000006776663322490935708_);}
+	.st41{fill:url(#SVGID_00000031200970720912746010000008888321611415912322_);}
+	.st42{fill:#EC7F45;}
+	.st43{fill:#8D2C32;}
+	.st44{fill:url(#SVGID_00000037693581777128027690000007046366011831027121_);}
+	.st45{fill:#9C3532;}
+	.st46{fill:#672732;}
+	.st47{fill:#721A3A;}
+	.st48{fill:#354B5C;}
+	.st49{fill:#BF2650;}
+	.st50{fill:#9B1C51;}
+	.st51{fill:#B2414D;}
+	.st52{fill:#A6323A;}
+	.st53{fill:#912550;}
+	.st54{fill:#6B1743;}
+	.st55{fill:#9F314D;}
+	.st56{fill:#B42A68;}
+	.st57{fill:#35646F;}
+	.st58{fill:#BF3C66;}
+	.st59{fill:#DB732A;}
+	.st60{fill:#B54A26;}
+	.st61{fill:#DA9261;}
+	.st62{fill:#466C7D;}
+	.st63{fill:#F79334;}
+	.st64{fill:#E35448;}
+	.st65{fill:#A77A9F;}
+	.st66{fill:url(#SVGID_00000094611580221264596360000016496813219533109892_);}
+	.st67{fill:url(#SVGID_00000177442581389593980880000000826547429216435641_);}
+	.st68{fill:url(#SVGID_00000016786423871404013850000009599607161092129214_);}
+	.st69{fill:#FCB31E;}
+	.st70{fill:#EB8C23;}
+	.st71{fill:url(#SVGID_00000070109858198728210020000006790010409586394776_);}
+	.st72{fill:#C2E8F6;}
+	.st73{fill:url(#SVGID_00000023266566319384229620000009886302586049173418_);}
+	.st74{opacity:0.5;fill:#C27590;}
+	.st75{fill:url(#SVGID_00000132086621159127958290000007451107303181445285_);}
+	.st76{fill:#F6B495;}
+	.st77{fill:url(#SVGID_00000083069883367525932410000002777150200617139641_);}
+	.st78{fill:#F08D21;}
+	.st79{fill:#CE5A28;}
+	.st80{fill:url(#SVGID_00000077289807160442906430000016435606301692289435_);}
+	.st81{fill:#7A2832;}
+	.st82{opacity:0.5;fill:url(#SVGID_00000119837574338034446660000015652751173540243632_);}
+	.st83{opacity:0.5;fill:url(#SVGID_00000039815501042935624120000011023783476653914530_);}
+	.st84{opacity:0.5;fill:url(#SVGID_00000044899673992743694780000002170406017990798521_);}
+	.st85{fill:#F7CC9F;}
+	.st86{fill:#F7EEA3;}
+	.st87{fill:#AD4332;}
+	.st88{fill:#A93E31;}
+	.st89{fill:#401B32;}
+	.st90{opacity:0.5;}
+	.st91{opacity:0.2;fill:#722732;}
+	.st92{opacity:0.2;fill:url(#SVGID_00000049199267592557184670000004667625208153744005_);}
+	.st93{fill:#D25829;}
+</style>
+<metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 7.1-c000 79.b0f8be9, 2021/12/08-19:11:22        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+            xmlns:xmpGImg="http://ns.adobe.com/xap/1.0/g/img/"
+            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+            xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"
+            xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+            xmlns:illustrator="http://ns.adobe.com/illustrator/1.0/"
+            xmlns:xmpTPg="http://ns.adobe.com/xap/1.0/t/pg/"
+            xmlns:stDim="http://ns.adobe.com/xap/1.0/sType/Dimensions#"
+            xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/"
+            xmlns:pdf="http://ns.adobe.com/pdf/1.3/">
+         <dc:format>image/svg+xml</dc:format>
+         <dc:title>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">Print</rdf:li>
+            </rdf:Alt>
+         </dc:title>
+         <xmp:MetadataDate>2022-03-29T20:29:39+09:00</xmp:MetadataDate>
+         <xmp:ModifyDate>2022-03-29T20:29:39+09:00</xmp:ModifyDate>
+         <xmp:CreateDate>2022-03-29T20:29:39+09:00</xmp:CreateDate>
+         <xmp:CreatorTool>Adobe Illustrator 26.1 (Macintosh)</xmp:CreatorTool>
+         <xmp:Thumbnails>
+            <rdf:Alt>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpGImg:width>256</xmpGImg:width>
+                  <xmpGImg:height>172</xmpGImg:height>
+                  <xmpGImg:format>JPEG</xmpGImg:format>
+                  <xmpGImg:image>/9j/4AAQSkZJRgABAgEASABIAAD/7QAsUGhvdG9zaG9wIDMuMAA4QklNA+0AAAAAABAASAAAAAEA&#xA;AQBIAAAAAQAB/+4ADkFkb2JlAGTAAAAAAf/bAIQABgQEBAUEBgUFBgkGBQYJCwgGBggLDAoKCwoK&#xA;DBAMDAwMDAwQDA4PEA8ODBMTFBQTExwbGxscHx8fHx8fHx8fHwEHBwcNDA0YEBAYGhURFRofHx8f&#xA;Hx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8f/8AAEQgArAEAAwER&#xA;AAIRAQMRAf/EAaIAAAAHAQEBAQEAAAAAAAAAAAQFAwIGAQAHCAkKCwEAAgIDAQEBAQEAAAAAAAAA&#xA;AQACAwQFBgcICQoLEAACAQMDAgQCBgcDBAIGAnMBAgMRBAAFIRIxQVEGE2EicYEUMpGhBxWxQiPB&#xA;UtHhMxZi8CRygvElQzRTkqKyY3PCNUQnk6OzNhdUZHTD0uIIJoMJChgZhJRFRqS0VtNVKBry4/PE&#xA;1OT0ZXWFlaW1xdXl9WZ2hpamtsbW5vY3R1dnd4eXp7fH1+f3OEhYaHiImKi4yNjo+Ck5SVlpeYmZ&#xA;qbnJ2en5KjpKWmp6ipqqusra6voRAAICAQIDBQUEBQYECAMDbQEAAhEDBCESMUEFURNhIgZxgZEy&#xA;obHwFMHR4SNCFVJicvEzJDRDghaSUyWiY7LCB3PSNeJEgxdUkwgJChgZJjZFGidkdFU38qOzwygp&#xA;0+PzhJSktMTU5PRldYWVpbXF1eX1RlZmdoaWprbG1ub2R1dnd4eXp7fH1+f3OEhYaHiImKi4yNjo&#xA;+DlJWWl5iZmpucnZ6fkqOkpaanqKmqq6ytrq+v/aAAwDAQACEQMRAD8A655k1m0m8r6uhqjtY3IA&#xA;YbVMTbVGYWLt3T5Rw2YyPeP1W2jsvNjmDsQCOT5gsDW3A8CcE+b0uPkiPDIM0Zo9w1vqtrMoqyMS&#xA;AelSpyrUR4oEJjzDJ4rfVtav1ht4pLu7k+zGgrQfqVR45h4cX8MQ2ZMkYC5Gg9M8qfk3bw8LvzC4&#xA;nl2YWEZ/dqf+LHG7fIbe5zb4NDW8/k8/qu1ydse3mz14ILekFvGsMEQCxxRgKqgDoANhm2xxAFB5&#xA;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</xmpGImg:image>
+               </rdf:li>
+            </rdf:Alt>
+         </xmp:Thumbnails>
+         <xmpMM:InstanceID>xmp.iid:5d289c0b-f401-44e1-9d3a-bb2ebc5580ee</xmpMM:InstanceID>
+         <xmpMM:DocumentID>xmp.did:5d289c0b-f401-44e1-9d3a-bb2ebc5580ee</xmpMM:DocumentID>
+         <xmpMM:OriginalDocumentID>uuid:5D20892493BFDB11914A8590D31508C8</xmpMM:OriginalDocumentID>
+         <xmpMM:RenditionClass>default</xmpMM:RenditionClass>
+         <xmpMM:DerivedFrom rdf:parseType="Resource">
+            <stRef:instanceID>xmp.iid:86f70411-b180-406c-878e-521ba988e64a</stRef:instanceID>
+            <stRef:documentID>xmp.did:86f70411-b180-406c-878e-521ba988e64a</stRef:documentID>
+            <stRef:originalDocumentID>uuid:5D20892493BFDB11914A8590D31508C8</stRef:originalDocumentID>
+            <stRef:renditionClass>default</stRef:renditionClass>
+         </xmpMM:DerivedFrom>
+         <xmpMM:History>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:86f70411-b180-406c-878e-521ba988e64a</stEvt:instanceID>
+                  <stEvt:when>2022-03-29T20:29:17+09:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator 26.1 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:5d289c0b-f401-44e1-9d3a-bb2ebc5580ee</stEvt:instanceID>
+                  <stEvt:when>2022-03-29T20:29:39+09:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator 26.1 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+            </rdf:Seq>
+         </xmpMM:History>
+         <illustrator:StartupProfile>Print</illustrator:StartupProfile>
+         <illustrator:CreatorSubTool>Adobe Illustrator</illustrator:CreatorSubTool>
+         <xmpTPg:HasVisibleOverprint>False</xmpTPg:HasVisibleOverprint>
+         <xmpTPg:HasVisibleTransparency>True</xmpTPg:HasVisibleTransparency>
+         <xmpTPg:NPages>1</xmpTPg:NPages>
+         <xmpTPg:MaxPageSize rdf:parseType="Resource">
+            <stDim:w>559.072184</stDim:w>
+            <stDim:h>372.849100</stDim:h>
+            <stDim:unit>Points</stDim:unit>
+         </xmpTPg:MaxPageSize>
+         <xmpTPg:PlateNames>
+            <rdf:Seq>
+               <rdf:li>Cyan</rdf:li>
+               <rdf:li>Magenta</rdf:li>
+               <rdf:li>Yellow</rdf:li>
+               <rdf:li>Black</rdf:li>
+            </rdf:Seq>
+         </xmpTPg:PlateNames>
+         <xmpTPg:SwatchGroups>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpG:groupName>Default Swatch Group</xmpG:groupName>
+                  <xmpG:groupType>0</xmpG:groupType>
+                  <xmpG:Colorants>
+                     <rdf:Seq>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>White</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>Black</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>100.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>CMYK Red</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>100.000000</xmpG:magenta>
+                           <xmpG:yellow>100.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>CMYK Yellow</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>100.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>CMYK Green</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>100.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>100.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>CMYK Cyan</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>100.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>CMYK Blue</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>100.000000</xmpG:cyan>
+                           <xmpG:magenta>100.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>CMYK Magenta</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>100.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=15 M=100 Y=90 K=10</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>15.000000</xmpG:cyan>
+                           <xmpG:magenta>100.000000</xmpG:magenta>
+                           <xmpG:yellow>90.000000</xmpG:yellow>
+                           <xmpG:black>10.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=90 Y=85 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>90.000000</xmpG:magenta>
+                           <xmpG:yellow>85.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=80 Y=95 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>80.000000</xmpG:magenta>
+                           <xmpG:yellow>95.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=50 Y=100 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>50.000000</xmpG:magenta>
+                           <xmpG:yellow>100.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=35 Y=85 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>35.000000</xmpG:magenta>
+                           <xmpG:yellow>85.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=5 M=0 Y=90 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>5.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>90.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=20 M=0 Y=100 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>20.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>100.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=50 M=0 Y=100 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>50.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>100.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=75 M=0 Y=100 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>75.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>100.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=85 M=10 Y=100 K=10</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>85.000000</xmpG:cyan>
+                           <xmpG:magenta>10.000000</xmpG:magenta>
+                           <xmpG:yellow>100.000000</xmpG:yellow>
+                           <xmpG:black>10.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=90 M=30 Y=95 K=30</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>90.000000</xmpG:cyan>
+                           <xmpG:magenta>30.000000</xmpG:magenta>
+                           <xmpG:yellow>95.000000</xmpG:yellow>
+                           <xmpG:black>30.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=75 M=0 Y=75 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>75.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>75.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=80 M=10 Y=45 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>80.000000</xmpG:cyan>
+                           <xmpG:magenta>10.000000</xmpG:magenta>
+                           <xmpG:yellow>45.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=70 M=15 Y=0 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>70.000000</xmpG:cyan>
+                           <xmpG:magenta>15.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=85 M=50 Y=0 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>85.000000</xmpG:cyan>
+                           <xmpG:magenta>50.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=100 M=95 Y=5 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>100.000000</xmpG:cyan>
+                           <xmpG:magenta>95.000000</xmpG:magenta>
+                           <xmpG:yellow>5.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=100 M=100 Y=25 K=25</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>100.000000</xmpG:cyan>
+                           <xmpG:magenta>100.000000</xmpG:magenta>
+                           <xmpG:yellow>25.000000</xmpG:yellow>
+                           <xmpG:black>25.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=75 M=100 Y=0 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>75.000000</xmpG:cyan>
+                           <xmpG:magenta>100.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=50 M=100 Y=0 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>50.000000</xmpG:cyan>
+                           <xmpG:magenta>100.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=35 M=100 Y=35 K=10</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>35.000000</xmpG:cyan>
+                           <xmpG:magenta>100.000000</xmpG:magenta>
+                           <xmpG:yellow>35.000000</xmpG:yellow>
+                           <xmpG:black>10.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=10 M=100 Y=50 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>10.000000</xmpG:cyan>
+                           <xmpG:magenta>100.000000</xmpG:magenta>
+                           <xmpG:yellow>50.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=95 Y=20 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>95.000000</xmpG:magenta>
+                           <xmpG:yellow>20.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=25 M=25 Y=40 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>25.000000</xmpG:cyan>
+                           <xmpG:magenta>25.000000</xmpG:magenta>
+                           <xmpG:yellow>40.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=40 M=45 Y=50 K=5</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>40.000000</xmpG:cyan>
+                           <xmpG:magenta>45.000000</xmpG:magenta>
+                           <xmpG:yellow>50.000000</xmpG:yellow>
+                           <xmpG:black>5.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=50 M=50 Y=60 K=25</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>50.000000</xmpG:cyan>
+                           <xmpG:magenta>50.000000</xmpG:magenta>
+                           <xmpG:yellow>60.000000</xmpG:yellow>
+                           <xmpG:black>25.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=55 M=60 Y=65 K=40</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>55.000000</xmpG:cyan>
+                           <xmpG:magenta>60.000000</xmpG:magenta>
+                           <xmpG:yellow>65.000000</xmpG:yellow>
+                           <xmpG:black>40.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=25 M=40 Y=65 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>25.000000</xmpG:cyan>
+                           <xmpG:magenta>40.000000</xmpG:magenta>
+                           <xmpG:yellow>65.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=30 M=50 Y=75 K=10</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>30.000000</xmpG:cyan>
+                           <xmpG:magenta>50.000000</xmpG:magenta>
+                           <xmpG:yellow>75.000000</xmpG:yellow>
+                           <xmpG:black>10.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=35 M=60 Y=80 K=25</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>35.000000</xmpG:cyan>
+                           <xmpG:magenta>60.000000</xmpG:magenta>
+                           <xmpG:yellow>80.000000</xmpG:yellow>
+                           <xmpG:black>25.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=40 M=65 Y=90 K=35</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>40.000000</xmpG:cyan>
+                           <xmpG:magenta>65.000000</xmpG:magenta>
+                           <xmpG:yellow>90.000000</xmpG:yellow>
+                           <xmpG:black>35.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=40 M=70 Y=100 K=50</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>40.000000</xmpG:cyan>
+                           <xmpG:magenta>70.000000</xmpG:magenta>
+                           <xmpG:yellow>100.000000</xmpG:yellow>
+                           <xmpG:black>50.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=50 M=70 Y=80 K=70</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>50.000000</xmpG:cyan>
+                           <xmpG:magenta>70.000000</xmpG:magenta>
+                           <xmpG:yellow>80.000000</xmpG:yellow>
+                           <xmpG:black>70.000000</xmpG:black>
+                        </rdf:li>
+                     </rdf:Seq>
+                  </xmpG:Colorants>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpG:groupName>Grays</xmpG:groupName>
+                  <xmpG:groupType>1</xmpG:groupType>
+                  <xmpG:Colorants>
+                     <rdf:Seq>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=0 Y=0 K=100</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>100.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=0 Y=0 K=90</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>89.999400</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=0 Y=0 K=80</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>79.998800</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=0 Y=0 K=70</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>69.999700</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=0 Y=0 K=60</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>59.999100</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=0 Y=0 K=50</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>50.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=0 Y=0 K=40</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>39.999400</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=0 Y=0 K=30</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>29.998800</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=0 Y=0 K=20</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>19.999700</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=0 Y=0 K=10</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>9.999100</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=0 Y=0 K=5</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>4.998800</xmpG:black>
+                        </rdf:li>
+                     </rdf:Seq>
+                  </xmpG:Colorants>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpG:groupName>Brights</xmpG:groupName>
+                  <xmpG:groupType>1</xmpG:groupType>
+                  <xmpG:Colorants>
+                     <rdf:Seq>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=100 Y=100 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>100.000000</xmpG:magenta>
+                           <xmpG:yellow>100.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=75 Y=100 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>75.000000</xmpG:magenta>
+                           <xmpG:yellow>100.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=10 Y=95 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>10.000000</xmpG:magenta>
+                           <xmpG:yellow>95.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=85 M=10 Y=100 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>85.000000</xmpG:cyan>
+                           <xmpG:magenta>10.000000</xmpG:magenta>
+                           <xmpG:yellow>100.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=100 M=90 Y=0 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>100.000000</xmpG:cyan>
+                           <xmpG:magenta>90.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=60 M=90 Y=0 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>60.000000</xmpG:cyan>
+                           <xmpG:magenta>90.000000</xmpG:magenta>
+                           <xmpG:yellow>0.003100</xmpG:yellow>
+                           <xmpG:black>0.003100</xmpG:black>
+                        </rdf:li>
+                     </rdf:Seq>
+                  </xmpG:Colorants>
+               </rdf:li>
+            </rdf:Seq>
+         </xmpTPg:SwatchGroups>
+         <pdf:Producer>Adobe PDF library 15.00</pdf:Producer>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?>
+	</metadata>
+<g>
+	<g>
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="0.2242" y1="40.127" x2="559.0722" y2="40.127">
+			<stop  offset="0" style="stop-color:#AC492C"/>
+			<stop  offset="1" style="stop-color:#8A2A37"/>
+		</linearGradient>
+		<polygon class="st0" points="0.22,61.85 179.99,80.19 559.07,18.78 559.07,0.06 0.22,0.06 		"/>
+		
+			<linearGradient id="SVGID_00000121281743385609519900000014049489125327197061_" gradientUnits="userSpaceOnUse" x1="90.1056" y1="243.7087" x2="90.1056" y2="61.8465">
+			<stop  offset="3.952570e-03" style="stop-color:#EC8552"/>
+			<stop  offset="1" style="stop-color:#FBBD6C"/>
+		</linearGradient>
+		<polygon style="fill:url(#SVGID_00000121281743385609519900000014049489125327197061_);" points="0.22,61.85 0.22,243.71 
+			174.95,243.71 179.99,80.19 		"/>
+		
+			<linearGradient id="SVGID_00000175286750173010731880000007353787149132014242_" gradientUnits="userSpaceOnUse" x1="232.122" y1="18.0592" x2="577.7455" y2="308.0718">
+			<stop  offset="0" style="stop-color:#53A2D3"/>
+			<stop  offset="0.996" style="stop-color:#2B72BA"/>
+		</linearGradient>
+		<polygon style="fill:url(#SVGID_00000175286750173010731880000007353787149132014242_);" points="559.07,18.78 179.99,80.19 
+			174.95,243.71 559.07,330.33 		"/>
+		
+			<linearGradient id="SVGID_00000032613617060365281940000012280287022240570533_" gradientUnits="userSpaceOnUse" x1="0.2242" y1="50.6382" x2="559.0722" y2="50.6382">
+			<stop  offset="3.952570e-03" style="stop-color:#C86D53"/>
+			<stop  offset="1" style="stop-color:#E0792F"/>
+		</linearGradient>
+		<polygon style="fill:url(#SVGID_00000032613617060365281940000012280287022240570533_);" points="559.07,18.78 179.99,80.19 
+			0.22,61.85 0.22,67.43 179.68,82.49 559.07,30.33 		"/>
+		
+			<linearGradient id="SVGID_00000173876764262806295290000004098312685925524663_" gradientUnits="userSpaceOnUse" x1="0.2242" y1="57.0342" x2="559.0722" y2="57.0342">
+			<stop  offset="0" style="stop-color:#A24A24"/>
+			<stop  offset="1" style="stop-color:#7F1926"/>
+		</linearGradient>
+		<polygon style="fill:url(#SVGID_00000173876764262806295290000004098312685925524663_);" points="0.22,68.75 179.99,83.73 
+			559.07,34.29 559.07,30.33 179.68,82.49 0.22,67.43 		"/>
+		<polygon class="st5" points="179.68,82.49 179.99,80.19 0.22,60.45 0.22,67.43 		"/>
+		<g>
+			
+				<linearGradient id="SVGID_00000068640215925432307660000013260883092663271829_" gradientUnits="userSpaceOnUse" x1="279.6482" y1="372.6281" x2="279.6482" y2="243.7087">
+				<stop  offset="0" style="stop-color:#AB4A36"/>
+				<stop  offset="1" style="stop-color:#F79145"/>
+			</linearGradient>
+			<polygon style="fill:url(#SVGID_00000068640215925432307660000013260883092663271829_);" points="0.22,243.71 174.95,243.71 
+				559.07,330.33 559.07,372.63 0.22,372.63 			"/>
+			
+				<linearGradient id="SVGID_00000080175066803988950460000006780842336683328697_" gradientUnits="userSpaceOnUse" x1="0.2242" y1="293.6132" x2="559.0722" y2="293.6132">
+				<stop  offset="0" style="stop-color:#A33931"/>
+				<stop  offset="1" style="stop-color:#7F1926"/>
+			</linearGradient>
+			<polygon style="fill:url(#SVGID_00000080175066803988950460000006780842336683328697_);" points="559.07,346.55 174.95,246.19 
+				0.22,246.73 0.22,240.68 174.95,243.71 559.07,330.33 			"/>
+			<polygon class="st8" points="559.07,330.33 174.95,243.71 0.22,240.68 0.22,238.82 175,242.23 559.07,326.68 			"/>
+			<g class="st9">
+				<g>
+					
+						<rect x="347.64" y="105.88" transform="matrix(0.3104 -0.9506 0.9506 0.3104 -54.2663 544.0735)" class="st10" width="0.46" height="407.11"/>
+				</g>
+				<g>
+					
+						<rect x="284.07" y="137.72" transform="matrix(0.3676 -0.93 0.93 0.3676 -108.0242 460.1161)" class="st10" width="0.47" height="343.53"/>
+				</g>
+				<g>
+					
+						<rect x="238.9" y="157.49" transform="matrix(0.4151 -0.9098 0.9098 0.4151 -141.727 398.6054)" class="st10" width="0.47" height="304.06"/>
+				</g>
+				<g>
+					
+						<rect x="193.26" y="184.44" transform="matrix(0.5042 -0.8636 0.8636 0.5042 -171.3883 320.5728)" class="st10" width="0.47" height="250.22"/>
+				</g>
+				<g>
+					
+						<rect x="151.81" y="205.71" transform="matrix(0.6079 -0.794 0.794 0.6079 -186.1513 242.1004)" class="st10" width="0.47" height="207.62"/>
+				</g>
+				<g>
+					<polygon class="st10" points="174.79,372.79 49.42,246.74 49.75,246.41 175.12,372.46 					"/>
+				</g>
+				<g>
+					
+						<rect x="77.3" y="230.82" transform="matrix(0.8018 -0.5976 0.5976 0.8018 -169.6079 107.6861)" class="st10" width="0.47" height="157.41"/>
+				</g>
+				<g>
+					
+						<rect x="41.44" y="239.39" transform="matrix(0.896 -0.444 0.444 0.896 -133.1688 50.706)" class="st10" width="0.47" height="140.54"/>
+				</g>
+				<g>
+					
+						<rect x="15.13" y="263.87" transform="matrix(0.962 -0.2731 0.2731 0.962 -86.6043 16.3282)" class="st10" width="0.47" height="110.86"/>
+				</g>
+				<g>
+					<rect x="16.4" y="322.73" class="st10" width="31.86" height="0.47"/>
+				</g>
+				<g>
+					<rect x="87.55" y="322.73" class="st10" width="38.01" height="0.47"/>
+				</g>
+				<g>
+					<rect x="81.55" y="278.49" class="st10" width="30.25" height="0.47"/>
+				</g>
+				<g>
+					<rect x="252.7" y="343.88" class="st10" width="62.25" height="0.47"/>
+				</g>
+				<g>
+					<rect x="246.59" y="294.35" class="st10" width="55.77" height="0.47"/>
+				</g>
+			</g>
+			<polygon class="st11" points="85.45,279.37 179.98,372.63 231.83,372.63 112.81,279.37 			"/>
+			<polygon class="st11" points="86.67,246.35 252.7,341.89 311.38,342.49 101.72,246.83 			"/>
+			<polygon class="st12" points="317.34,299.47 288.25,299.47 327.15,317.91 268.82,294.87 250,294.87 452.89,372.63 538.74,372.63 
+							"/>
+			<polygon class="st12" points="51.23,274.24 60.77,274.24 84.34,300.76 82.27,296.77 89.33,296.77 104.08,314.88 116.85,314.21 
+				124.57,321.97 87.15,322.43 			"/>
+			<polygon class="st12" points="283.82,362.29 354.78,362.29 377.45,372.63 302.82,372.63 			"/>
+			<polygon class="st12" points="164.82,319.3 118.63,283.94 128.99,283.94 141.73,293.61 122.59,277.04 135.99,275.98 
+				215.55,322.43 204.2,322.97 154.37,293.61 188.62,317.78 			"/>
+			<polygon class="st12" points="30.5,372.63 19.69,334.56 30.5,334.56 35.82,344.11 33.01,322.97 47.11,322.97 71.01,372.63 			"/>
+		</g>
+		
+			<linearGradient id="SVGID_00000114040085157006571260000000450183018209891222_" gradientUnits="userSpaceOnUse" x1="88.8637" y1="198.0657" x2="107.6553" y2="198.0657">
+			<stop  offset="0" style="stop-color:#AC492C"/>
+			<stop  offset="1" style="stop-color:#A83D3C"/>
+		</linearGradient>
+		<polygon style="fill:url(#SVGID_00000114040085157006571260000000450183018209891222_);" points="88.86,198.45 90.11,198.07 
+			107.65,197.68 107.66,198.26 		"/>
+		<g>
+			
+				<linearGradient id="SVGID_00000133526507232252154180000007822051901413761156_" gradientUnits="userSpaceOnUse" x1="64.4186" y1="246.8308" x2="64.4186" y2="116.4894">
+				<stop  offset="3.952570e-03" style="stop-color:#C86D53"/>
+				<stop  offset="1" style="stop-color:#E0792F"/>
+			</linearGradient>
+			<path style="fill:url(#SVGID_00000133526507232252154180000007822051901413761156_);" d="M20.72,246.81l3.58-100.57
+				c7.78-36.93,70.14-44.13,82.91,5.17l0.92,95.41L20.72,246.81z"/>
+			<path class="st15" d="M90.11,152.78c0,0-3.57-40.48-41.84-33.31c-0.36-0.44,44.57-16.94,58.94,31.95l0.45,46.25l0.47,49.16
+				l-18.01-4.59V152.78z"/>
+			
+				<linearGradient id="SVGID_00000181795393618137887050000014273823965018928534_" gradientUnits="userSpaceOnUse" x1="64.4186" y1="246.8308" x2="64.4186" y2="220.3369">
+				<stop  offset="0" style="stop-color:#BB5944"/>
+				<stop  offset="1" style="stop-color:#B14B48"/>
+			</linearGradient>
+			<polygon style="fill:url(#SVGID_00000181795393618137887050000014273823965018928534_);" points="21.66,220.34 90.11,222.2 
+				90.11,242.24 108.12,246.83 20.72,246.81 			"/>
+			
+				<linearGradient id="SVGID_00000158715457139355270560000003811535739762732685_" gradientUnits="userSpaceOnUse" x1="107.6872" y1="221.9497" x2="176.2476" y2="221.9497">
+				<stop  offset="0" style="stop-color:#AC492C"/>
+				<stop  offset="1" style="stop-color:#A83D3C"/>
+			</linearGradient>
+			<polygon style="fill:url(#SVGID_00000158715457139355270560000003811535739762732685_);" points="107.69,201.67 176.25,201.67 
+				175,242.23 108.07,240.92 			"/>
+			
+				<linearGradient id="SVGID_00000083781985320069218440000012050248182804229044_" gradientUnits="userSpaceOnUse" x1="107.6526" y1="199.869" x2="178.2697" y2="199.869">
+				<stop  offset="0" style="stop-color:#A33931"/>
+				<stop  offset="1" style="stop-color:#7F1926"/>
+			</linearGradient>
+			<polygon style="fill:url(#SVGID_00000083781985320069218440000012050248182804229044_);" points="107.65,198.07 107.69,201.67 
+				176.25,201.67 178.27,198.45 			"/>
+			<polygon class="st19" points="112.27,238.25 169.74,238.25 170.52,205.65 112.27,205.65 			"/>
+			<polygon class="st8" points="169.74,238.25 167.6,236.58 114.09,237.21 112.27,238.25 			"/>
+			<polygon class="st20" points="170.52,205.65 169.22,206.37 167.6,236.58 169.74,238.25 			"/>
+			<polygon class="st15" points="112.27,205.65 113.62,206.72 169.22,206.37 170.52,205.65 			"/>
+			<polygon class="st20" points="112.27,238.25 114.09,237.21 113.62,206.72 112.27,205.65 			"/>
+			
+				<linearGradient id="SVGID_00000047031172119230329570000009008202599250345864_" gradientUnits="userSpaceOnUse" x1="0.2242" y1="219.3419" x2="22.3861" y2="219.3419">
+				<stop  offset="0" style="stop-color:#AC492C"/>
+				<stop  offset="1" style="stop-color:#A83D3C"/>
+			</linearGradient>
+			<polygon style="fill:url(#SVGID_00000047031172119230329570000009008202599250345864_);" points="22.39,199.87 0.22,199.87 
+				0.22,238.82 21,238.82 			"/>
+			
+				<linearGradient id="SVGID_00000085221805558654876410000015192752485082373765_" gradientUnits="userSpaceOnUse" x1="0.2242" y1="197.9971" x2="23.82" y2="197.9971">
+				<stop  offset="0" style="stop-color:#A33931"/>
+				<stop  offset="1" style="stop-color:#7F1926"/>
+			</linearGradient>
+			<polygon style="fill:url(#SVGID_00000085221805558654876410000015192752485082373765_);" points="22.39,199.87 23.82,196.13 
+				0.22,196.13 0.22,199.87 			"/>
+			<polygon class="st8" points="23.82,196.13 22.99,195.54 0.22,195.19 0.22,196.13 			"/>
+			<polygon class="st19" points="0.23,205.8 17.07,205.8 15.99,234.87 0,234.87 			"/>
+			<polygon class="st8" points="15.99,234.87 14.43,233.58 0.22,233.58 0,234.87 			"/>
+			<polygon class="st20" points="17.07,205.8 15.99,206.53 14.43,233.58 15.99,234.87 			"/>
+			<polygon class="st15" points="0.23,205.8 0.23,206.37 15.99,206.53 17.07,205.8 			"/>
+			<polygon class="st23" points="107.69,201.67 90.11,201.67 88.86,198.45 107.65,198.07 			"/>
+			<polygon class="st8" points="107.65,197.68 178.27,197.68 178.27,198.45 107.66,198.26 			"/>
+		</g>
+		<path class="st24" d="M107.65,197.67L107.65,197.67l-17.55,0.39v-45.29c0,0-3.57-40.48-41.84-33.31
+			c-0.36-0.44,44.57-16.94,58.94,31.95L107.65,197.67z"/>
+		<polygon class="st25" points="0,333.15 334.17,337.73 270.48,306.03 224.5,295.17 201.72,285.85 195.82,283.38 260.85,284.57 
+			158.64,246.93 559.07,350.43 559.07,372.63 0.22,372.63 		"/>
+		<polygon class="st26" points="167.6,238.82 168.01,206.66 167.18,204.51 166.07,239.84 		"/>
+		<g>
+			<polygon class="st15" points="559.07,228.63 188.91,197.68 188.91,78.75 559.07,18.78 			"/>
+			<polygon class="st26" points="160.33,246.23 165.18,78.57 191.01,78.76 188.91,252.38 			"/>
+			
+				<linearGradient id="SVGID_00000120547315423063190900000009130894765138806463_" gradientUnits="userSpaceOnUse" x1="160.3279" y1="272.113" x2="559.0722" y2="272.113">
+				<stop  offset="0" style="stop-color:#AC492C"/>
+				<stop  offset="1" style="stop-color:#8A2A37"/>
+			</linearGradient>
+			<polygon style="fill:url(#SVGID_00000120547315423063190900000009130894765138806463_);" points="559.07,234.87 161.73,197.68 
+				160.33,246.23 559.07,346.55 			"/>
+			
+				<linearGradient id="SVGID_00000018939795822019574710000008691601327837993396_" gradientUnits="userSpaceOnUse" x1="360.4028" y1="234.8748" x2="360.4028" y2="197.6776">
+				<stop  offset="3.952570e-03" style="stop-color:#C86D53"/>
+				<stop  offset="1" style="stop-color:#E0792F"/>
+			</linearGradient>
+			<polygon style="fill:url(#SVGID_00000018939795822019574710000008691601327837993396_);" points="559.07,234.87 161.73,197.68 
+				188.91,197.68 559.07,228.63 			"/>
+			
+				<linearGradient id="SVGID_00000103978951897506604850000000957241157004340363_" gradientUnits="userSpaceOnUse" x1="190.2965" y1="182.8577" x2="138.8578" y2="93.7631">
+				<stop  offset="0" style="stop-color:#AC492C"/>
+				<stop  offset="1" style="stop-color:#AF5036"/>
+			</linearGradient>
+			<polygon style="fill:url(#SVGID_00000103978951897506604850000000957241157004340363_);" points="161.73,197.68 165.18,78.57 
+				166.71,77.72 164.22,197.91 			"/>
+			
+				<linearGradient id="SVGID_00000071537761708519922980000011521283232704112523_" gradientUnits="userSpaceOnUse" x1="165.1811" y1="52.4234" x2="559.0722" y2="52.4234">
+				<stop  offset="0" style="stop-color:#AC492C"/>
+				<stop  offset="1" style="stop-color:#8A2A37"/>
+			</linearGradient>
+			<polygon style="fill:url(#SVGID_00000071537761708519922980000011521283232704112523_);" points="165.18,78.57 165.18,86.06 
+				559.07,34.29 559.07,18.78 			"/>
+			<polygon class="st15" points="165.18,82.49 163.22,78.35 559.07,14.03 559.07,24.28 			"/>
+			<polygon class="st31" points="166.71,85.86 192.33,89.97 559.07,47.1 559.07,34.29 			"/>
+			<polygon class="st5" points="163.22,78.35 163.22,77.14 559.07,9.69 559.07,14.03 			"/>
+			
+				<linearGradient id="SVGID_00000057827649388601721890000016599172208635655587_" gradientUnits="userSpaceOnUse" x1="162.7558" y1="153.9787" x2="559.0722" y2="153.9787">
+				<stop  offset="0" style="stop-color:#AC492C"/>
+				<stop  offset="1" style="stop-color:#8A2A37"/>
+			</linearGradient>
+			<polygon style="fill:url(#SVGID_00000057827649388601721890000016599172208635655587_);" points="162.76,160.27 559.07,155.84 
+				559.07,147.69 162.87,158.24 			"/>
+			
+				<linearGradient id="SVGID_00000180368212474274917470000005430835305222102200_" gradientUnits="userSpaceOnUse" x1="164.016" y1="101.5508" x2="559.0722" y2="101.5508">
+				<stop  offset="0" style="stop-color:#AC492C"/>
+				<stop  offset="1" style="stop-color:#8A2A37"/>
+			</linearGradient>
+			<polygon style="fill:url(#SVGID_00000180368212474274917470000005430835305222102200_);" points="164.26,120.61 559.07,87.62 
+				559.07,82.49 164.02,118.82 			"/>
+			<polygon class="st34" points="422.2,151.47 421.11,156.15 424.89,156.15 424.89,151.53 			"/>
+			<polygon class="st34" points="421.86,216.09 420.23,221.95 425.11,221.95 425.1,216.28 			"/>
+			<polygon class="st34" points="421.3,92.6 419.29,97.26 424.89,97.63 424.89,92.82 			"/>
+			<polygon class="st35" points="447.37,224.42 444.67,41.19 431.16,43.18 432.72,223.05 			"/>
+			<polygon class="st26" points="447.37,224.42 499.79,223.68 499.79,54.03 444.79,49.31 			"/>
+			<polygon class="st34" points="444.79,49.31 501.93,65.88 559.07,62.13 559.07,47.1 499.79,54.03 			"/>
+			<polygon class="st36" points="449.4,150.61 449.4,155.84 559.07,155.84 559.07,147.69 			"/>
+			<polygon class="st36" points="559.07,91.34 449.4,97.63 449.4,92.62 559.07,82.49 			"/>
+			<polygon class="st34" points="449.4,97.63 499.79,106.86 559.07,104.88 559.07,91.34 			"/>
+			<polygon class="st34" points="449.4,155.84 499.79,170.64 559.07,171.36 559.07,155.84 			"/>
+			<polygon class="st37" points="439.27,230.1 439.27,308.17 559.07,333.75 559.07,240.68 			"/>
+			<polygon class="st35" points="559.07,254.11 449.4,242.23 449.4,299.6 559.07,318.44 			"/>
+			<polygon class="st5" points="449.4,299.6 444.13,304.5 559.07,326.68 559.07,318.44 			"/>
+			<polygon class="st26" points="444.13,304.5 442.88,236.06 449.4,242.23 449.4,299.6 			"/>
+			<polygon class="st31" points="442.88,236.06 559.07,246.03 559.07,255.43 449.4,242.23 			"/>
+			<polygon class="st38" points="559.07,240.68 439.27,230.1 442.88,236.06 559.07,247.12 			"/>
+			<polygon class="st39" points="433.43,305.41 559.07,333.75 559.07,344.35 437.13,315.87 			"/>
+			<polygon class="st26" points="559.07,350.43 437.79,318.44 437.13,315.87 559.07,344.35 			"/>
+			<polygon class="st39" points="160.41,243.46 158.64,246.41 318.53,287.87 318.53,280.65 			"/>
+			<polygon class="st26" points="158.64,246.41 158.64,246.93 318.25,290.04 318.53,287.87 			"/>
+			<polygon class="st37" points="166.71,203.11 311.38,218.8 311.38,274.47 165.26,240.91 			"/>
+			<polygon class="st35" points="310.38,223.77 168.01,206.66 167.6,238.82 311.38,268.23 			"/>
+			<polygon class="st31" points="168.01,206.66 167.18,204.51 311.38,220.69 311.38,224.07 			"/>
+			<polygon class="st5" points="167.6,238.82 166.07,239.84 311.38,270.79 311.38,268.23 			"/>
+			<polygon class="st34" points="165,160.27 189.88,172.6 311.38,173.54 311.38,158.61 			"/>
+			<polygon class="st31" points="165,160.27 188.91,165.47 311.38,165.47 311.38,158.61 			"/>
+			<polygon class="st34" points="164.26,120.61 190.36,132.48 311.38,127.36 311.38,108.31 			"/>
+			<polygon class="st31" points="260.17,73.58 264.59,81.52 264.59,109.56 250.32,110.86 250.32,74.94 			"/>
+			<polygon class="st31" points="165.83,120.48 190.47,123.71 311.38,116.49 311.38,108.31 			"/>
+			<g>
+				<polygon class="st26" points="433.43,309.44 379.6,309.6 378.15,33.11 431.16,43.18 				"/>
+				
+					<linearGradient id="SVGID_00000065067844742859945590000006886585532010992297_" gradientUnits="userSpaceOnUse" x1="334.17" y1="308.1684" x2="334.17" y2="33.5936">
+					<stop  offset="0" style="stop-color:#C25236"/>
+					<stop  offset="1" style="stop-color:#E07726"/>
+				</linearGradient>
+				<polygon style="fill:url(#SVGID_00000065067844742859945590000006886585532010992297_);" points="356.96,308.17 311.38,293.61 
+					311.38,47.1 356.96,33.59 				"/>
+				<polygon class="st15" points="431.16,43.18 438.68,33.59 380.09,23.04 354.94,23.04 304.33,41.82 311.38,47.1 356.96,33.59 
+					378.15,33.11 				"/>
+				<polygon class="st31" points="378.15,33.11 380.09,23.04 438.68,33.59 431.16,43.18 				"/>
+				
+					<linearGradient id="SVGID_00000177480777347333528390000005009860433233805973_" gradientUnits="userSpaceOnUse" x1="304.3307" y1="31.2262" x2="354.9375" y2="31.2262">
+					<stop  offset="0" style="stop-color:#C25236"/>
+					<stop  offset="1" style="stop-color:#E07726"/>
+				</linearGradient>
+				<polygon style="fill:url(#SVGID_00000177480777347333528390000005009860433233805973_);" points="304.33,41.82 304.33,40.13 
+					354.39,20.63 354.94,23.04 				"/>
+				<polygon class="st42" points="311.38,293.61 306.35,299.47 355.11,318.39 381.87,318.44 437.13,315.87 431.16,305.49 
+					379.59,308.17 356.96,308.17 				"/>
+				<polygon class="st15" points="306.35,299.47 306.35,301.06 355.11,321.98 355.11,318.39 				"/>
+				<polygon class="st15" points="379.59,308.17 381.87,319.07 437.13,315.87 433.43,305.41 				"/>
+				<polygon class="st31" points="381.87,321.98 437.79,318.44 437.13,315.87 381.87,319.07 				"/>
+				<polygon class="st35" points="356.96,33.59 378.15,33.11 379.59,308.17 356.96,308.17 				"/>
+				<polygon class="st43" points="438.68,33.59 438.68,30.2 381.33,19.95 380.09,23.04 				"/>
+				<polygon class="st26" points="356.96,33.59 354.94,23.04 380.09,23.04 378.15,33.11 				"/>
+				
+					<linearGradient id="SVGID_00000116956353416057195850000009084449118416323731_" gradientUnits="userSpaceOnUse" x1="354.3941" y1="21.4938" x2="381.3275" y2="21.4938">
+					<stop  offset="0" style="stop-color:#AA4537"/>
+					<stop  offset="1" style="stop-color:#B6512B"/>
+				</linearGradient>
+				<polygon style="fill:url(#SVGID_00000116956353416057195850000009084449118416323731_);" points="381.33,19.95 354.39,20.63 
+					354.94,23.04 380.09,23.04 				"/>
+				<polygon class="st45" points="356.96,308.17 355.11,318.39 381.87,319.07 379.59,308.17 				"/>
+				<polygon class="st26" points="355.11,318.39 355.11,321.98 381.87,321.98 381.87,319.07 				"/>
+				<polygon class="st26" points="315.35,292.22 355.11,304.01 351.99,55.95 342.16,41.19 320.16,48.26 315.35,63.84 				"/>
+				<polygon class="st35" points="343.49,43.18 322.34,49.74 317.68,63.86 318.53,291.48 315.35,292.22 315.35,63.84 320.16,48.26 
+					342.16,41.19 				"/>
+				<polygon class="st5" points="355.11,304.01 355.11,300.75 318.53,291.48 315.35,292.22 				"/>
+				<polygon class="st35" points="317.84,98.68 352.47,94.14 352.42,89.97 317.83,95.3 				"/>
+				<polygon class="st31" points="381.87,304.01 429.37,301.61 426.81,62.23 419.36,47.1 389.79,41.82 381.87,54.7 				"/>
+				<polygon class="st46" points="381.87,301.97 425.25,299.6 424.83,62.86 417.34,48.26 388.95,43.18 389.79,41.82 419.36,47.1 
+					426.81,62.23 429.37,301.61 381.87,304.01 				"/>
+				<polygon class="st45" points="425.25,299.6 429.37,301.61 381.87,304.01 381.87,301.97 				"/>
+				<polygon class="st34" points="394.37,293.16 394.37,52.4 417.34,48.24 388.95,43.16 381.87,54.67 381.87,293.14 				"/>
+				<polygon class="st45" points="381.87,293.16 394.37,293.19 425.25,299.6 381.87,301.97 				"/>
+				<polygon class="st26" points="424.89,92.82 381.87,90.25 381.87,94.83 424.89,97.63 				"/>
+				<polygon class="st26" points="424.89,151.53 381.87,150.57 381.87,156.07 424.89,156.15 				"/>
+				<polygon class="st26" points="425.1,216.28 381.87,216.28 381.87,221.95 425.11,221.95 				"/>
+				<polygon class="st5" points="318.53,291.48 354.95,291.48 355.11,300.75 				"/>
+				<polygon class="st34" points="322.34,49.74 343.49,66.19 354.95,291.48 351.99,55.95 343.49,43.18 				"/>
+				<polygon class="st35" points="353.18,150.57 318.01,152.12 318.03,156.15 353.18,156.15 				"/>
+				<polygon class="st35" points="354.01,216.67 318.25,216.28 318.25,220.69 354.01,221.33 				"/>
+				<polygon class="st34" points="317.84,98.68 352.47,104.88 352.47,94.14 				"/>
+				<polygon class="st47" points="399.61,111.21 381.87,113.54 381.87,150.57 398.4,150.94 				"/>
+				<polygon class="st34" points="318.03,156.15 353.4,168.16 353.18,156.15 				"/>
+				<polygon class="st34" points="318.25,220.69 354.26,236.58 354.01,221.33 				"/>
+				<polygon class="st34" points="425.11,221.95 381.87,238.25 381.87,221.95 				"/>
+				<polygon class="st34" points="424.89,156.15 381.87,168.16 381.87,156.07 				"/>
+				<polygon class="st34" points="424.89,97.63 381.87,106.86 381.87,94.83 				"/>
+				<polygon class="st45" points="425.1,216.28 381.87,213.82 381.87,216.28 				"/>
+				<polygon class="st48" points="381.87,56.49 411.75,61.07 411.75,92.03 381.87,90.25 				"/>
+				<polygon class="st49" points="424.89,151.53 398.4,150.94 399.61,111.21 424.89,112.3 				"/>
+				<polygon class="st49" points="390.95,150.57 399.61,116.01 395.28,113.54 384.74,146.45 				"/>
+				<polygon class="st48" points="381.87,170.64 405.62,171.36 406.95,215.25 381.87,215.05 				"/>
+				<polygon class="st50" points="412.5,173.96 405.79,176.9 417.34,215.84 424.6,213.12 				"/>
+				<polygon class="st50" points="424.6,249.22 399.61,249.22 399.61,300.75 425.25,299.6 				"/>
+				<polygon class="st51" points="381.87,253.41 399.61,252.79 399.61,300.75 381.87,301.97 				"/>
+				<polygon class="st52" points="391.88,215.05 391.88,170.94 396.85,171.36 396.85,215.25 				"/>
+				<polygon class="st53" points="395.28,113.54 381.87,113.54 381.87,147.69 384.74,146.45 				"/>
+				<polygon class="st54" points="384.74,146.45 381.87,146.45 381.87,150.57 390.95,150.57 				"/>
+				<polygon class="st47" points="405.79,176.9 406.95,215.25 417.34,215.84 				"/>
+				<polygon class="st53" points="412.43,111.76 412.43,151.25 419.42,151.41 419.29,112.06 				"/>
+				<polygon class="st55" points="399.61,252.79 381.87,249.22 381.87,253.41 				"/>
+				<polygon class="st56" points="424.6,249.22 388,243.71 381.87,243.71 381.87,249.22 399.61,252.79 399.61,249.22 				"/>
+				<polygon class="st47" points="399.61,249.22 381.87,246.03 381.87,249.22 399.61,252.79 				"/>
+				<polygon class="st47" points="399.61,252.79 399.61,300.75 401.31,249.41 399.61,249.22 				"/>
+				<polygon class="st48" points="329.42,243.71 354.33,242.29 354.95,294.35 329.85,294.35 				"/>
+				<polygon class="st57" points="318.25,216.28 318.53,172.6 336.82,171.36 338.64,216.5 				"/>
+				<polygon class="st48" points="336.82,171.36 353.18,171.36 354.01,216.67 338.64,216.5 				"/>
+				<polygon class="st57" points="343.49,216.5 337.05,176.9 342.05,174.55 351.02,214.29 				"/>
+				<polygon class="st58" points="318.01,152.12 318.25,107.74 344.04,104.88 343.5,150.94 				"/>
+				<polygon class="st57" points="351.99,55.95 327.79,62.13 326.65,93.94 352.42,89.97 				"/>
+				<polygon class="st57" points="320.32,63.86 320.32,94.83 326.65,93.94 325.13,62.62 				"/>
+				<polygon class="st53" points="344.04,104.88 352.47,104.88 353.18,150.57 343.5,150.94 				"/>
+				<polygon class="st57" points="322.34,107.29 323.48,151.88 330.61,151.53 331.02,106.32 				"/>
+				<polygon class="st48" points="325.13,62.62 327.73,63.63 326.68,93.01 				"/>
+				<polygon class="st57" points="318.53,242.23 329.42,243.71 329.85,294.35 318.53,291.48 				"/>
+				<polygon class="st59" points="339.84,243.67 329.78,286.64 336.26,294.42 342.45,268.23 343.5,296.12 355.11,300.75 
+					354.35,243.46 				"/>
+				<polygon class="st60" points="336.26,294.42 343.43,294.35 342.45,268.23 				"/>
+				<polygon class="st61" points="339.84,243.67 343.49,248.25 354.41,248.25 354.35,243.46 				"/>
+				<polygon class="st51" points="396.81,58.78 398.4,91.24 403.38,91.54 403.38,59.79 				"/>
+				<polygon class="st51" points="412.43,249.41 412.43,300.18 425.25,299.6 424.6,249.22 				"/>
+				<polygon class="st62" points="318.53,242.23 354.31,240.68 354.33,242.29 329.42,243.71 				"/>
+				<polygon class="st61" points="354.32,240.96 324.43,242.23 329.78,243.16 354.29,241.88 				"/>
+				<polygon class="st59" points="318.53,172.6 323.29,172.28 324.43,216.28 318.25,216.28 				"/>
+				<polygon class="st59" points="340.9,58.78 348.34,56.88 348.34,90.6 342.5,91.5 				"/>
+				<polygon class="st63" points="318.48,180.76 318.48,187.98 323.7,187.98 323.51,180.76 				"/>
+				<polygon class="st63" points="324.08,202.57 338.06,202.03 338.45,211.64 324.31,211.64 				"/>
+				<polygon class="st63" points="338.76,187.43 339.37,191.21 345.41,189.44 344.72,186.35 				"/>
+				<polygon class="st63" points="323.24,142.22 323.4,148.51 330.65,147.69 330.65,142.22 				"/>
+				<polygon class="st63" points="331.02,114.39 344.04,113.11 343.88,119.2 330.9,120.37 				"/>
+				<polygon class="st64" points="393.02,120.61 391.88,124.15 396.85,127.01 397.79,123.26 				"/>
+				<polygon class="st64" points="398.59,144.66 412.43,145.36 412.43,149.79 398.4,148.51 				"/>
+				<rect x="412.43" y="118.59" class="st64" width="6.99" height="3.1"/>
+				<polygon class="st64" points="414.67,206.84 416.74,213.82 423.74,210.33 421.94,204.51 				"/>
+				<polygon class="st64" points="403.38,66.66 411.75,68.17 411.65,74.26 403.38,72.71 				"/>
+				<polygon class="st64" points="398.1,85.05 381.87,83.73 381.87,87.5 398.1,88.55 				"/>
+				<polygon class="st63" points="331.03,281.32 332.09,276.77 338.98,282.88 337.8,287.87 				"/>
+				<polygon class="st63" points="318.53,251.31 318.53,260.16 329.58,262.43 329.42,252.73 				"/>
+				<polygon class="st63" points="320.32,75.01 320.32,78.35 325.85,76.68 325.69,74.19 				"/>
+				<polygon class="st63" points="326.93,86.06 342.09,83.01 342.5,91.5 326.65,93.94 				"/>
+				<polygon class="st63" points="341.09,62.72 341.27,66.44 348.34,64.58 348.34,61.78 				"/>
+				<polygon class="st63" points="343.43,254.8 343.43,260.68 354.59,261.32 354.5,254.98 				"/>
+			</g>
+			<polygon class="st60" points="522.22,106.86 526.71,108.42 522.22,108.71 			"/>
+			<polygon class="st65" points="482.85,330.33 453.98,27.59 438.68,30.2 425.11,39.11 433.43,316.08 			"/>
+			<polygon class="st48" points="515.45,56.49 519.78,58.98 515.45,59.44 			"/>
+			<g>
+				<polygon class="st48" points="528.31,108.31 547.9,109.74 547.9,147.99 528.31,148.51 				"/>
+				<polygon class="st57" points="453.98,150.49 453.98,113.11 528.31,108.31 528.31,148.51 				"/>
+				<polygon class="st50" points="547.9,147.99 559.07,147.69 559.07,108.31 547.9,108.31 				"/>
+				<polygon class="st50" points="472.29,150 472.29,108.31 493.64,106.86 492.83,149.44 				"/>
+				<polygon class="st47" points="493.64,106.86 511.98,107.76 511.98,109.37 496.67,110.36 495.74,149.32 492.83,149.44 				"/>
+				<polygon class="st59" points="516.92,148.81 517.33,106.86 522.22,106.86 522.63,148.68 				"/>
+				<polygon class="st60" points="522.22,108.71 522.63,148.68 524.47,148.51 523.92,108.6 				"/>
+				<polygon class="st60" points="533.52,113.54 547.9,114.63 547.9,147.99 538.47,147.69 				"/>
+				<polygon class="st59" points="538.47,147.69 528.31,116.01 533.52,113.54 545.18,145.05 				"/>
+				<polygon class="st48" points="505.35,149.03 504.24,109.87 505.34,109.87 505.92,149.03 				"/>
+				<polygon class="st47" points="482.85,149.71 485.67,149.67 485.67,107.41 482.85,107.41 				"/>
+				<polygon class="st48" points="465,112.4 465.67,150.18 472.29,150 472.29,112.4 				"/>
+				<polygon class="st63" points="453.98,127.84 465.26,127.01 465.42,136.05 453.98,136.05 				"/>
+				<polygon class="st63" points="535.88,139.61 542.45,137.68 544.01,141.9 537.12,143.47 				"/>
+				<polygon class="st63" points="517.24,116.64 522.22,116.64 522.22,110.36 517.29,110.82 				"/>
+				<polygon class="st63" points="493.05,137.68 485.67,137.68 485.67,145.52 492.9,145.52 				"/>
+				<rect x="547.9" y="112.3" class="st63" width="11.18" height="4.97"/>
+			</g>
+			<g>
+				<polygon class="st48" points="235.19,131.61 247.38,132.5 247.38,156.3 235.19,156.63 				"/>
+				<polygon class="st57" points="188.93,157.86 188.93,134.6 235.19,131.61 235.19,156.63 				"/>
+				<polygon class="st50" points="247.38,156.3 254.34,156.12 254.34,131.61 247.38,131.61 				"/>
+				<polygon class="st50" points="200.33,157.56 200.33,131.61 213.61,130.71 213.11,157.21 				"/>
+				<polygon class="st47" points="213.61,130.71 225.03,131.26 225.03,132.27 215.5,132.88 214.92,157.13 213.11,157.21 				"/>
+				<polygon class="st59" points="228.1,156.82 228.36,130.71 231.4,130.71 231.66,156.73 				"/>
+				<polygon class="st60" points="231.4,131.86 231.66,156.73 232.8,156.63 232.46,131.79 				"/>
+				<polygon class="st60" points="238.44,134.86 247.38,135.54 247.38,156.3 241.59,156.58 				"/>
+				<polygon class="st59" points="241.59,156.58 235.19,136.4 238.44,134.86 245.81,154.79 				"/>
+				<polygon class="st48" points="220.9,156.95 220.21,132.58 220.9,132.58 221.26,156.95 				"/>
+				<polygon class="st47" points="206.9,157.38 208.65,157.35 208.65,131.05 206.9,131.05 				"/>
+				<polygon class="st48" points="195.79,134.15 196.21,157.67 200.33,157.56 200.33,134.15 				"/>
+				<polygon class="st63" points="188.93,143.76 195.95,143.25 196.05,148.87 188.93,148.87 				"/>
+				<polygon class="st63" points="239.91,151.09 243.99,149.88 244.97,152.51 240.68,153.49 				"/>
+				<polygon class="st63" points="228.3,136.8 231.4,136.8 231.4,132.88 228.34,133.17 				"/>
+				<polygon class="st63" points="213.25,149.88 208.65,149.88 208.65,154.77 213.15,154.77 				"/>
+				<rect x="247.38" y="134.09" class="st63" width="6.96" height="3.09"/>
+				<polygon class="st57" points="188.93,136.8 185.88,135.18 175.67,155.76 179.29,157.86 				"/>
+				<polygon class="st48" points="179.29,157.86 188.93,157.86 188.93,136.8 				"/>
+				<polygon class="st63" points="177.04,152.99 180.7,154.77 182.39,151.09 178.82,149.42 				"/>
+			</g>
+			<g>
+				<polygon class="st48" points="301.56,130 311.53,131.01 311.53,154.75 301.56,155.02 				"/>
+				<polygon class="st57" points="255.3,156.25 255.3,132.99 301.56,130 301.56,155.02 				"/>
+				<polygon class="st50" points="266.69,155.95 266.69,130 279.98,129.1 279.47,155.59 				"/>
+				<polygon class="st47" points="279.98,129.1 291.39,129.65 291.39,130.65 281.86,131.27 281.28,155.52 279.47,155.59 				"/>
+				<polygon class="st59" points="294.47,155.21 294.73,129.1 297.77,129.1 298.02,155.12 				"/>
+				<polygon class="st60" points="297.77,130.24 298.02,155.12 299.16,155.02 298.83,130.17 				"/>
+				<polygon class="st48" points="287.27,155.34 286.57,130.97 287.26,130.97 287.62,155.34 				"/>
+				<polygon class="st47" points="273.26,155.76 275.02,155.74 275.02,129.43 273.26,129.43 				"/>
+				<polygon class="st48" points="262.15,132.54 262.57,156.05 266.69,155.95 266.69,132.25 				"/>
+				<polygon class="st63" points="255.3,142.15 262.31,141.64 262.41,147.26 255.3,147.26 				"/>
+				<polygon class="st63" points="294.67,135.18 297.77,135.18 297.77,131.27 294.7,131.56 				"/>
+				<polygon class="st63" points="279.61,148.27 275.02,148.27 275.02,153.15 279.52,153.15 				"/>
+			</g>
+			<g>
+				<polygon class="st51" points="453.98,224.07 453.98,184.37 559.07,184.37 559.07,231.98 				"/>
+				<polygon class="st57" points="479.2,182.15 479.2,225.97 516.92,228.81 515.74,182.43 				"/>
+				<polygon class="st50" points="547.9,182.15 549.76,231.28 559.07,231.98 559.07,182.15 				"/>
+				<polygon class="st48" points="516.92,228.81 516.92,184.37 534.08,184.37 534.08,182.15 515.74,182.43 				"/>
+				<polygon class="st52" points="462.67,184.37 462.67,224.72 474.53,225.62 473.27,184.37 				"/>
+				<polygon class="st59" points="538.74,230.45 538.74,184.37 547.98,184.37 549.76,231.28 				"/>
+				<polygon class="st50" points="530.91,184.37 530.91,229.86 525.91,229.49 525.72,184.37 				"/>
+				<polygon class="st48" points="491.15,182.15 491.15,222.95 491.93,182.15 				"/>
+				<polygon class="st48" points="504.24,227.85 504.58,182.15 505.34,227.94 				"/>
+				<polygon class="st50" points="491.15,182.15 491.54,226.9 505.34,227.94 504.58,182.15 				"/>
+				<polygon class="st63" points="491.54,224.82 505.34,225.62 505.2,219.24 491.54,218.77 				"/>
+				<polygon class="st63" points="530.91,190.89 525.74,190.89 525.76,194.9 530.91,194.9 				"/>
+				<polygon class="st63" points="462.67,192.94 462.67,196.37 473.67,197.68 473.67,192.94 				"/>
+				<polygon class="st63" points="559.07,191.93 548.27,191.93 548.38,194.9 559.07,195.31 				"/>
+				<rect x="479.2" y="196.07" class="st63" width="11.94" height="2.27"/>
+				<polygon class="st63" points="516.92,221.95 525.88,222.19 525.9,227.34 516.92,226.86 				"/>
+			</g>
+			<g>
+				<polygon class="st51" points="222.82,201.15 222.82,172.93 297.53,172.93 297.53,206.78 				"/>
+				<polygon class="st50" points="289.58,171.36 290.91,206.28 297.53,206.78 297.53,171.36 				"/>
+				<polygon class="st59" points="283.07,205.69 283.07,172.93 289.64,172.93 290.91,206.28 				"/>
+				<polygon class="st50" points="277.51,172.93 277.51,205.27 273.95,205 273.81,172.93 				"/>
+				<polygon class="st63" points="277.51,177.56 273.83,177.56 273.85,180.42 277.51,180.42 				"/>
+				<polygon class="st63" points="297.53,178.31 289.84,178.31 289.92,180.42 297.53,180.71 				"/>
+				<polygon class="st51" points="185.88,199.18 185.88,173.53 253.75,173.53 253.75,204.29 				"/>
+				<polygon class="st57" points="202.17,172.1 202.17,200.4 226.53,202.24 225.77,172.28 				"/>
+				<polygon class="st48" points="226.53,202.24 226.53,173.53 237.61,173.53 237.61,172.1 225.77,172.28 				"/>
+				<polygon class="st52" points="191.49,173.53 191.49,199.6 199.15,200.18 198.33,173.53 				"/>
+				<polygon class="st59" points="240.62,203.3 240.62,173.53 246.59,173.53 247.74,203.84 				"/>
+				<polygon class="st50" points="235.56,173.53 235.56,202.92 232.34,202.68 232.21,173.53 				"/>
+				<polygon class="st48" points="209.88,172.1 209.88,198.46 210.39,172.1 				"/>
+				<polygon class="st48" points="218.34,201.62 218.56,172.1 219.05,201.68 				"/>
+				<polygon class="st50" points="209.88,172.1 210.14,201 219.05,201.68 218.56,172.1 				"/>
+				<polygon class="st63" points="210.14,199.67 219.05,200.18 218.96,196.06 210.14,195.76 				"/>
+				<polygon class="st63" points="235.56,177.74 232.23,177.74 232.24,180.34 235.56,180.34 				"/>
+				<polygon class="st63" points="191.49,179.07 191.49,181.29 198.6,182.13 198.6,179.07 				"/>
+				<rect x="202.17" y="181.09" class="st63" width="7.71" height="1.47"/>
+				<polygon class="st57" points="291.6,174.99 291.6,206.58 311.38,208.07 311.38,175.13 				"/>
+				<rect x="291.6" y="185.02" class="st63" width="8.61" height="1.64"/>
+				<polygon class="st63" points="226.53,197.81 232.32,197.97 232.33,201.29 226.53,200.98 				"/>
+				<polygon class="st50" points="300.21,174.99 300.38,207.25 306.43,207.59 306.28,175.1 				"/>
+				<polygon class="st57" points="263.16,172.93 264.49,204.29 270.93,204.86 270.19,172.93 				"/>
+			</g>
+			<g>
+				<polygon class="st59" points="559.07,54.86 453.98,65.88 453.98,92.2 559.07,82.49 				"/>
+				<polygon class="st50" points="538.1,54.71 538.1,84.42 559.07,82.49 559.07,52.42 				"/>
+				<polygon class="st57" points="465,91.22 465,62.62 484.26,59.83 484.26,89.37 				"/>
+				<polygon class="st48" points="484.26,59.83 493.64,61.72 485.67,62.56 484.26,89.37 				"/>
+				<polygon class="st57" points="511.98,86.82 511.98,57.03 515.45,56.49 515.45,86.5 				"/>
+				<polygon class="st51" points="523.34,58.61 523.34,85.78 538.1,84.42 538.1,57.06 				"/>
+				<polygon class="st50" points="498.06,88.13 498.06,61.26 502.4,60.8 502.4,87.7 				"/>
+				<polygon class="st51" points="491.15,88.77 491.15,61.98 485.67,62.56 484.26,89.37 				"/>
+				<polygon class="st63" points="465,85.78 484.26,84.42 484.26,86.82 465,88.13 				"/>
+				<polygon class="st63" points="538.1,59.44 559.07,57.06 559.07,59.44 538.1,60.8 				"/>
+				<polygon class="st63" points="491.15,66.66 498.06,65.88 498.06,67.71 491.15,68.42 				"/>
+				<polygon class="st63" points="511.98,82.49 511.98,84.42 515.45,84.42 515.45,81.79 				"/>
+				<polygon class="st63" points="523.34,63.94 538.1,62.62 538.1,64.41 523.34,65.88 				"/>
+				<polygon class="st63" points="453.98,68.52 465,67.59 465,69.88 453.98,70.58 				"/>
+			</g>
+			<g>
+				<polygon class="st59" points="311.4,84.03 230.77,92.49 230.77,112.68 311.4,105.23 				"/>
+				<polygon class="st50" points="295.31,83.92 295.31,106.71 311.4,105.23 311.4,82.16 				"/>
+				<polygon class="st57" points="239.22,111.93 239.22,89.99 254,87.84 254,110.51 				"/>
+				<polygon class="st48" points="254,87.84 261.2,89.3 255.08,89.94 254,110.51 				"/>
+				<polygon class="st57" points="275.27,108.55 275.27,85.7 277.93,85.28 277.93,108.31 				"/>
+				<polygon class="st51" points="283.99,86.91 283.99,107.75 295.31,106.71 295.31,85.72 				"/>
+				<polygon class="st50" points="264.59,109.56 264.59,88.94 267.92,88.59 267.92,109.23 				"/>
+				<polygon class="st51" points="259.28,110.05 259.28,89.5 255.08,89.94 254,110.51 				"/>
+				<polygon class="st63" points="295.31,87.54 311.4,85.72 311.4,87.54 295.31,88.59 				"/>
+				<polygon class="st63" points="259.28,93.08 264.59,92.49 264.59,93.89 259.28,94.44 				"/>
+				<polygon class="st63" points="275.27,105.23 275.27,106.71 277.93,106.71 277.93,104.7 				"/>
+				<polygon class="st63" points="283.99,91 295.31,89.99 295.31,91.36 283.99,92.49 				"/>
+				<polygon class="st63" points="230.77,94.51 239.22,93.8 239.22,95.55 230.77,96.09 				"/>
+				<polygon class="st50" points="245.81,89.03 245.81,111.3 250.32,110.86 250.32,88.38 				"/>
+				<polygon class="st50" points="230.77,93.46 173.16,99.84 172.11,118.07 230.77,112.68 				"/>
+				<polygon class="st59" points="195.79,115.9 196.05,96.09 179.72,98.2 179.29,117.41 				"/>
+				<polygon class="st51" points="196.05,96.09 201.19,96.74 198.06,97.08 197.58,115.73 195.79,115.9 				"/>
+				<polygon class="st57" points="205.03,96.31 205.03,115.05 220.21,113.65 220.73,94.44 				"/>
+				<polygon class="st57" points="184.08,97.64 184.08,116.97 190.35,116.37 190.35,96.92 				"/>
+				<polygon class="st63" points="220.32,109.56 230.77,108.55 230.77,110.51 220.32,111.3 				"/>
+				<polygon class="st63" points="184.08,101.55 184.08,104.74 190.35,104.23 190.35,100.89 				"/>
+				<polygon class="st59" points="209.13,95.86 209.64,114.62 205.03,115.05 205.03,96.31 				"/>
+				<polygon class="st63" points="205.03,112.68 209.58,112.3 209.52,109.93 205.03,110.44 				"/>
+				<polygon class="st63" points="209.2,98.36 220.67,96.92 220.64,98.04 209.22,99.12 				"/>
+			</g>
+			
+				<linearGradient id="SVGID_00000103963988206684497230000004492241639728756882_" gradientUnits="userSpaceOnUse" x1="238.7464" y1="271.2183" x2="238.7464" y2="68.2111">
+				<stop  offset="0" style="stop-color:#8A2A37"/>
+				<stop  offset="1" style="stop-color:#AC492C"/>
+			</linearGradient>
+			<polygon style="fill:url(#SVGID_00000103963988206684497230000004492241639728756882_);" points="229.43,267.14 233.89,70.35 
+				248.06,68.21 246.59,271.22 			"/>
+			<polygon class="st26" points="248.06,68.21 250.15,69.46 250,271.61 246.59,271.22 			"/>
+			<polygon class="st26" points="242.12,270.16 237.61,270.16 241.29,67.01 244.01,68.82 			"/>
+			
+				<linearGradient id="SVGID_00000072960369019191522650000015663637858967107255_" gradientUnits="userSpaceOnUse" x1="238.6454" y1="270.1566" x2="238.6454" y2="67.0145">
+				<stop  offset="0" style="stop-color:#993537"/>
+				<stop  offset="1" style="stop-color:#C85F2B"/>
+			</linearGradient>
+			<polygon style="fill:url(#SVGID_00000072960369019191522650000015663637858967107255_);" points="241.29,67.01 238.75,69.62 
+				236,268.7 237.61,270.16 			"/>
+			<polygon class="st31" points="250.05,205.95 264.49,204.29 263.16,172.28 254.06,173.16 266.67,172.93 267.05,165.47 
+				250.15,159.29 			"/>
+			<polygon class="st31" points="250.05,156.3 250.15,113.35 266.26,119.18 265.96,132.3 255.3,132.99 255.3,156.25 			"/>
+		</g>
+		
+			<linearGradient id="SVGID_00000149356420769420750030000009607268725339478934_" gradientUnits="userSpaceOnUse" x1="0" y1="30.4335" x2="380.0856" y2="30.4335">
+			<stop  offset="0" style="stop-color:#C85C2A"/>
+			<stop  offset="1" style="stop-color:#9C3737"/>
+		</linearGradient>
+		<polygon style="fill:url(#SVGID_00000149356420769420750030000009607268725339478934_);" points="0,34.29 158.64,60.8 
+			380.09,0.06 335.23,0.06 157.63,54.86 0,23.04 		"/>
+		<polygon class="st69" points="335.23,0.06 304.33,0.06 157.63,52.42 0.34,9.69 0,23.04 157.63,54.86 		"/>
+		<polygon class="st70" points="157.63,54.86 157.63,52.42 304.33,0.06 335.23,0.06 		"/>
+		
+			<linearGradient id="SVGID_00000044156961068329976170000008665466360122643350_" gradientUnits="userSpaceOnUse" x1="38.7226" y1="15.6331" x2="110.131" y2="15.6331">
+			<stop  offset="0" style="stop-color:#C85C2A"/>
+			<stop  offset="1" style="stop-color:#B24A37"/>
+		</linearGradient>
+		<polygon style="fill:url(#SVGID_00000044156961068329976170000008665466360122643350_);" points="38.72,27.46 57.75,31.2 
+			110.13,0.06 77.53,0.06 		"/>
+		<polygon class="st70" points="38.72,27.46 38.72,20.12 64.42,0.06 77.53,0.06 		"/>
+		<polygon class="st72" points="110.13,0.06 64.04,27.46 157.63,52.42 304.33,0.06 		"/>
+		<polygon class="st72" points="0.34,9.69 38.72,20.12 64.42,0.06 0.22,0.06 		"/>
+		
+			<linearGradient id="SVGID_00000140719153694918979670000007802723940059918724_" gradientUnits="userSpaceOnUse" x1="139.3541" y1="13.7622" x2="244.0142" y2="13.7622">
+			<stop  offset="0" style="stop-color:#C85C2A"/>
+			<stop  offset="1" style="stop-color:#B24A37"/>
+		</linearGradient>
+		<polygon style="fill:url(#SVGID_00000140719153694918979670000007802723940059918724_);" points="139.35,0.06 238.19,27.46 
+			244.01,26.24 155.77,0.06 		"/>
+		<polygon class="st69" points="244.01,26.24 244.01,21.59 173.62,0.06 155.77,0.06 		"/>
+		<polygon class="st74" points="0,99.18 165.18,86.06 311.38,91.24 311.38,56.88 356.96,44.13 378.22,48.26 431.38,68.21 
+			559.07,64.11 559.07,14.03 438.68,30.2 381.33,19.95 354.39,20.63 304.33,40.13 311.38,47.1 311.38,60.45 165.18,82.49 
+			0.22,68.75 		"/>
+		<g>
+			<polygon class="st74" points="115.49,115.05 114.09,116.01 113.18,188.23 152.16,188.23 152.16,118.07 			"/>
+			
+				<linearGradient id="SVGID_00000087414266125928555570000006718646788232098238_" gradientUnits="userSpaceOnUse" x1="116.6509" y1="149.6496" x2="156.7016" y2="149.6496">
+				<stop  offset="0" style="stop-color:#AC492C"/>
+				<stop  offset="1" style="stop-color:#A83D3C"/>
+			</linearGradient>
+			<polygon style="fill:url(#SVGID_00000087414266125928555570000006718646788232098238_);" points="116.65,113.46 116.65,185.84 
+				156.7,185.84 156.7,115.05 			"/>
+			<polygon class="st35" points="116.65,113.46 115.49,115.05 115.49,184.72 116.65,185.84 			"/>
+			<polygon class="st76" points="120.07,117.41 151,118.66 151,182.27 120.07,181.82 			"/>
+			<polygon class="st8" points="118.44,184.56 155.77,184.56 151,182.27 120.07,181.82 			"/>
+			<polygon class="st26" points="120.07,117.41 117.74,114.39 155.54,116.44 151,119.36 			"/>
+			<polygon class="st74" points="151,119.36 122.65,122.26 120.07,181.09 120.07,117.41 			"/>
+		</g>
+		<g>
+			<polygon class="st31" points="260.05,108.75 256.92,107.75 199.83,285.46 204.57,286.16 			"/>
+			
+				<linearGradient id="SVGID_00000007395562064974129160000006407931680518244482_" gradientUnits="userSpaceOnUse" x1="226.3716" y1="285.4638" x2="226.3716" y2="107.7526">
+				<stop  offset="0" style="stop-color:#C25236"/>
+				<stop  offset="1" style="stop-color:#E07726"/>
+			</linearGradient>
+			<polygon style="fill:url(#SVGID_00000007395562064974129160000006407931680518244482_);" points="256.92,107.75 254.37,107.75 
+				195.82,283.38 199.83,285.46 			"/>
+			<polygon class="st78" points="210.87,266.72 207.29,266.72 227.12,271.79 227.48,270.62 			"/>
+			<polygon class="st79" points="207.29,266.72 205.95,271.22 225.46,277.14 227.12,271.79 			"/>
+			<polygon class="st78" points="219.09,241.03 215.51,241.15 235.5,245.53 235.82,244.34 			"/>
+			<polygon class="st79" points="215.51,241.15 214.33,245.7 234.04,250.93 235.5,245.53 			"/>
+			<polygon class="st78" points="226.03,219.14 222.47,219.5 242.7,222.54 242.94,221.34 			"/>
+			<polygon class="st79" points="222.47,219.5 221.59,224.11 241.59,228.04 242.7,222.54 			"/>
+			<polygon class="st78" points="232.21,197.68 228.63,198.03 249.05,199.4 249.23,198.88 			"/>
+			<polygon class="st79" points="228.63,198.03 228.13,202.69 248.4,204.96 249.05,199.4 			"/>
+			<polygon class="st79" points="235.51,177.9 234.26,182.56 255.78,183.18 255.95,178.31 			"/>
+			<polygon class="st79" points="241.4,158.9 239.91,163.56 261.67,164.18 261.86,158.58 			"/>
+			<polygon class="st79" points="247.05,140.59 245.81,145.27 267.43,145.45 267.5,139.85 			"/>
+			<polygon class="st79" points="252.81,122.28 251.54,127.01 273.34,126.43 273.22,120.83 			"/>
+			<polygon class="st31" points="281.6,106.36 278.26,105.43 224.5,295.17 229.53,295.73 			"/>
+			
+				<linearGradient id="SVGID_00000046298118097058686690000003310486568893332886_" gradientUnits="userSpaceOnUse" x1="248.8372" y1="294.9522" x2="248.8372" y2="107.1987" gradientTransform="matrix(0.9994 -0.0348 0.0348 0.9994 -6.4192 8.0741)">
+				<stop  offset="0" style="stop-color:#C25236"/>
+				<stop  offset="1" style="stop-color:#E07726"/>
+			</linearGradient>
+			<polygon style="fill:url(#SVGID_00000046298118097058686690000003310486568893332886_);" points="278.26,105.43 275.57,105.52 
+				220.19,293.11 224.5,295.17 			"/>
+			<polygon class="st81" points="245.81,145.27 248.06,147.09 263.37,146.85 263.89,145.06 			"/>
+			<polygon class="st81" points="251.79,127 253.93,128.31 268.98,127.85 269.58,125.79 			"/>
+			<polygon class="st81" points="239.91,163.56 242.31,165.47 257.8,165.71 258.44,163.56 			"/>
+			<polygon class="st81" points="234.26,182.56 236.59,183.76 252.26,184.47 252.67,183.09 			"/>
+		</g>
+		
+			<linearGradient id="SVGID_00000108309066737095198300000003328713651267403141_" gradientUnits="userSpaceOnUse" x1="82.8134" y1="298.3315" x2="82.8134" y2="27.4618">
+			<stop  offset="0" style="stop-color:#010101"/>
+			<stop  offset="1" style="stop-color:#C85C2A"/>
+		</linearGradient>
+		<polygon style="opacity:0.5;fill:url(#SVGID_00000108309066737095198300000003328713651267403141_);" points="64.04,27.46 
+			7.99,298.33 141.97,298.33 157.63,52.42 		"/>
+		
+			<linearGradient id="SVGID_00000152952847632574531350000010089061560102113470_" gradientUnits="userSpaceOnUse" x1="175.8774" y1="304.014" x2="175.8774" y2="0.0627">
+			<stop  offset="0" style="stop-color:#010101"/>
+			<stop  offset="1" style="stop-color:#C85C2A"/>
+		</linearGradient>
+		<polygon style="opacity:0.5;fill:url(#SVGID_00000152952847632574531350000010089061560102113470_);" points="139.35,0.06 
+			231.69,25.66 231.4,301.97 120.07,304.01 		"/>
+		
+			<linearGradient id="SVGID_00000052807972741414141280000007130143243764376736_" gradientUnits="userSpaceOnUse" x1="77.7405" y1="278.4871" x2="77.7405" y2="0.0627">
+			<stop  offset="0" style="stop-color:#010101"/>
+			<stop  offset="1" style="stop-color:#C85C2A"/>
+		</linearGradient>
+		<polygon style="opacity:0.5;fill:url(#SVGID_00000052807972741414141280000007130143243764376736_);" points="110.13,0.06 
+			78.64,18.78 45.35,273.8 81.55,278.49 		"/>
+		<g>
+			<path class="st85" d="M130.07,36.37c0,0.43-0.35,0.77-0.77,0.77s-0.77-0.35-0.77-0.77c0-0.43,0.35-0.77,0.77-0.77
+				S130.07,35.94,130.07,36.37z"/>
+			<circle class="st85" cx="110.13" cy="83.73" r="0.77"/>
+			<path class="st85" d="M131.11,65.22c0,0.29-0.23,0.52-0.52,0.52c-0.29,0-0.52-0.23-0.52-0.52c0-0.29,0.23-0.52,0.52-0.52
+				C130.88,64.7,131.11,64.94,131.11,65.22z"/>
+			<path class="st85" d="M124.26,93.8c0,0.29-0.23,0.52-0.52,0.52c-0.29,0-0.52-0.23-0.52-0.52c0-0.29,0.23-0.52,0.52-0.52
+				C124.02,93.28,124.26,93.51,124.26,93.8z"/>
+			<path class="st85" d="M104.87,34.29c0,0.29-0.23,0.52-0.52,0.52c-0.29,0-0.52-0.23-0.52-0.52c0-0.29,0.23-0.52,0.52-0.52
+				C104.63,33.77,104.87,34,104.87,34.29z"/>
+			<path class="st85" d="M145.4,68.21c0,0.29-0.23,0.52-0.52,0.52c-0.29,0-0.52-0.23-0.52-0.52c0-0.29,0.23-0.52,0.52-0.52
+				C145.17,67.69,145.4,67.92,145.4,68.21z"/>
+			<path class="st85" d="M87.21,59.11c0,0.29-0.23,0.52-0.52,0.52s-0.52-0.23-0.52-0.52c0-0.29,0.23-0.52,0.52-0.52
+				S87.21,58.82,87.21,59.11z"/>
+			<path class="st85" d="M141.86,57.86c0,0.69-0.56,1.25-1.25,1.25c-0.69,0-1.25-0.56-1.25-1.25c0-0.69,0.56-1.25,1.25-1.25
+				C141.3,56.61,141.86,57.17,141.86,57.86z"/>
+			<circle class="st85" cx="79.44" cy="54.86" r="1.25"/>
+			<path class="st85" d="M128.52,84.51c0,0.57-0.46,1.04-1.04,1.04c-0.57,0-1.04-0.46-1.04-1.04c0-0.57,0.46-1.04,1.04-1.04
+				C128.06,83.47,128.52,83.93,128.52,84.51z"/>
+			<circle class="st85" cx="88.86" cy="56.61" r="1.04"/>
+			<path class="st85" d="M98.84,101.55c0,0.57-0.46,1.04-1.04,1.04s-1.04-0.46-1.04-1.04c0-0.57,0.46-1.04,1.04-1.04
+				S98.84,100.98,98.84,101.55z"/>
+			
+				<ellipse transform="matrix(0.9966 -0.0824 0.0824 0.9966 -5.2453 9.3053)" class="st85" cx="110.13" cy="68.21" rx="2.07" ry="2.07"/>
+			<path class="st85" d="M128.52,63.17c0,0.57-0.46,1.04-1.04,1.04c-0.57,0-1.04-0.46-1.04-1.04c0-0.57,0.46-1.04,1.04-1.04
+				C128.06,62.13,128.52,62.59,128.52,63.17z"/>
+			<circle class="st85" cx="98.84" cy="92.24" r="1.04"/>
+			<path class="st85" d="M103.82,66.14c0,0.57-0.46,1.04-1.04,1.04c-0.57,0-1.04-0.46-1.04-1.04c0-0.57,0.46-1.04,1.04-1.04
+				C103.36,65.1,103.82,65.57,103.82,66.14z"/>
+			<path class="st85" d="M123,105.78c-0.09,0.26-0.38,0.4-0.64,0.3c-0.26-0.09-0.4-0.38-0.3-0.64c0.09-0.26,0.38-0.4,0.64-0.3
+				C122.96,105.23,123.1,105.52,123,105.78z"/>
+			<path class="st85" d="M139.44,98.85c-0.06,0.18-0.26,0.27-0.43,0.21c-0.18-0.06-0.27-0.26-0.21-0.43
+				c0.06-0.18,0.26-0.27,0.43-0.21S139.5,98.68,139.44,98.85z"/>
+			<path class="st85" d="M147.55,103.81c-0.06,0.18-0.26,0.27-0.43,0.21c-0.18-0.06-0.27-0.26-0.21-0.43
+				c0.06-0.18,0.26-0.27,0.43-0.21C147.52,103.44,147.61,103.63,147.55,103.81z"/>
+			<path class="st85" d="M133.64,110.11c-0.13,0.35-0.51,0.53-0.86,0.41c-0.35-0.13-0.53-0.51-0.41-0.86
+				c0.13-0.35,0.51-0.53,0.86-0.41S133.76,109.76,133.64,110.11z"/>
+			<path class="st85" d="M127.2,96.55c-0.25,0.7-1.02,1.07-1.72,0.82c-0.7-0.25-1.07-1.02-0.82-1.72c0.25-0.7,1.02-1.07,1.72-0.82
+				C127.08,95.08,127.45,95.85,127.2,96.55z"/>
+			<path class="st85" d="M138.3,97.03c-0.13,0.35-0.51,0.53-0.86,0.41c-0.35-0.13-0.53-0.51-0.41-0.86
+				c0.13-0.35,0.51-0.53,0.86-0.41C138.24,96.29,138.43,96.68,138.3,97.03z"/>
+			<path class="st85" d="M122.51,93.45c-0.13,0.35-0.51,0.53-0.86,0.41c-0.35-0.13-0.53-0.51-0.41-0.86
+				c0.13-0.35,0.51-0.53,0.86-0.41C122.45,92.71,122.64,93.1,122.51,93.45z"/>
+			<path class="st85" d="M75.06,62c-0.13,0.35-0.51,0.53-0.86,0.41c-0.35-0.13-0.53-0.51-0.41-0.86c0.13-0.35,0.51-0.53,0.86-0.41
+				C75,61.27,75.19,61.65,75.06,62z"/>
+		</g>
+		<polygon class="st86" points="79.06,280.82 0.31,282.31 0.51,258.06 56.17,257.52 		"/>
+		<polygon class="st86" points="112.27,316.05 0,318.39 0.29,284.57 81.29,283.09 		"/>
+		<polygon class="st86" points="177.3,278.96 86.22,280.68 60.76,257.49 129.07,256.83 		"/>
+		<polygon class="st86" points="251.79,313.14 124.75,315.79 88.71,282.96 182.29,281.25 182.3,281.25 		"/>
+		<polygon class="st76" points="0.31,282.31 0.29,284.56 0,282.32 		"/>
+		<g>
+			<polygon class="st35" points="18.39,345.97 22.14,0.06 65.89,0.06 65.38,345.97 			"/>
+			<polygon class="st26" points="18.39,345.97 14.43,323.2 15.99,0.06 22.14,0.06 			"/>
+			<polygon class="st45" points="65.39,335.64 69.47,346.55 18.28,347.8 18.37,335.5 			"/>
+			<polygon class="st26" points="69.47,346.55 69.47,350.27 18.28,350.27 18.39,345.97 			"/>
+			<polygon class="st35" points="14.43,323.2 10.26,328.54 18.28,347.8 18.37,335.5 			"/>
+			<polygon class="st31" points="10.26,328.54 10.26,330.33 18.28,350.27 18.39,345.97 			"/>
+			<polygon class="st26" points="65.89,207.73 70.09,198.41 18.61,197.68 20.05,207.73 			"/>
+			<polygon class="st31" points="20.05,207.73 15,204.29 12.02,195.66 18.61,197.68 			"/>
+			<polygon class="st45" points="70.09,198.41 65.6,195.66 20.72,195.19 18.61,197.68 			"/>
+			<polygon class="st35" points="12.02,195.66 15.05,193.95 20.72,195.19 18.61,197.68 			"/>
+			<polygon class="st26" points="22.39,330.33 62.16,330.33 62.16,212.77 23.82,212.89 			"/>
+			<polygon class="st87" points="25.84,324.19 56.13,324.19 57.97,216.28 27.47,216.28 			"/>
+			<polygon class="st45" points="23.28,328.54 25.84,324.19 56.13,324.19 60.76,328.54 			"/>
+			<polygon class="st31" points="27.47,216.28 24.73,213.88 60.53,213.88 57.97,216.28 			"/>
+			<polygon class="st88" points="23.82,212.89 24.73,213.88 60.53,213.88 62.16,212.77 			"/>
+			<polygon class="st31" points="16.35,328.54 18.39,211.81 14.97,209.98 13.26,209.98 13.11,321.25 			"/>
+			<polygon class="st26" points="16.04,213.33 15.36,322.06 14.82,320.82 15.43,212.77 			"/>
+			<polygon class="st89" points="14.82,320.82 13.54,321.32 13.9,210.82 15.43,212.77 			"/>
+			<polygon class="st88" points="18.39,211.81 16.84,212.98 13.26,209.98 14.98,209.14 			"/>
+			<polygon class="st45" points="13.54,321.32 15.75,325.01 15.36,322.06 14.82,320.82 			"/>
+			<g class="st90">
+				<g>
+					<path class="st26" d="M20.29,138.07l-0.48-0.51c0.41-0.39,41.21-39.45,45.03-82.73l0.7,0.06
+						C61.69,98.44,20.7,137.68,20.29,138.07z"/>
+				</g>
+				<g>
+					<path class="st26" d="M20.39,168.24l-0.68-0.16c0.14-0.6,14.44-59.91,45.97-65.07l0.11,0.69
+						C34.72,108.79,20.53,167.65,20.39,168.24z"/>
+				</g>
+				<g>
+					<path class="st26" d="M65.95,195.67l-0.7-0.02c0.02-0.67,2.14-67.34-11.03-68.25c-13.42-0.92-30.73,42.24-33.16,67.82
+						l-0.7-0.07c2.49-26.16,19.49-68.47,33.44-68.47c0.16,0,0.31,0,0.47,0.02C68.11,127.66,66.04,192.89,65.95,195.67z"/>
+				</g>
+				<g>
+					<path class="st26" d="M29.55,195.87l-0.69-0.1c0.21-1.37,5.24-33.59,20.48-36.81c2.48-0.52,4.65,0.01,6.48,1.59
+						c8.3,7.17,6.76,33.56,6.69,34.68l-0.7-0.04c0.02-0.27,1.59-27.16-6.45-34.11c-1.65-1.43-3.63-1.91-5.87-1.43
+						C34.72,162.75,29.6,195.54,29.55,195.87z"/>
+				</g>
+				<g>
+					<path class="st26" d="M20.81,126.14l-0.08-0.69c0.18-0.02,18.04-2.35,27.2-29.47C57.16,68.65,65.2,4.07,65.28,3.43l0.69,0.09
+						c-0.08,0.65-8.13,65.3-17.38,92.69C39.29,123.77,21,126.12,20.81,126.14z"/>
+				</g>
+				<g>
+					<path class="st26" d="M22.52,114.83c-1.03,0-1.65-0.09-1.68-0.09l0.11-0.69c0.11,0.02,10.86,1.53,17.48-8.81
+						c6.5-10.15,10.68-39.97,9.69-42.97c-0.69,0.78-2.34,5.01-3.94,9.1c-3.21,8.23-7.61,19.5-11.61,23.62
+						c-6.67,6.87-11.35,6.9-11.54,6.91l0-0.7l0,0c0.05,0,4.6-0.07,11.03-6.7c3.9-4.02,8.27-15.21,11.46-23.39
+						c2.7-6.92,3.71-9.36,4.49-9.62c0.15-0.05,0.3-0.03,0.43,0.05c0.16,0.1,0.27,0.29,0.34,0.61c0.91,4.09-3.23,33.24-9.77,43.45
+						C33.74,113.86,25.92,114.83,22.52,114.83z"/>
+				</g>
+				<g>
+					<path class="st26" d="M21.31,79.08c-0.02,0-0.03,0-0.04,0l0.01-0.7c0.12,0,10.17-0.06,21.75-18.12
+						C54.71,42.06,61.89,0.42,61.96,0l0.69,0.12c-0.07,0.42-7.28,42.2-19.03,60.52C32.04,78.7,22.1,79.08,21.31,79.08z"/>
+				</g>
+				<g>
+					<path class="st26" d="M21.61,57.22l-0.18-0.67c0.12-0.03,12.14-3.38,20.07-15.46C49.48,28.94,54.78,0.29,54.83,0l0.69,0.13
+						c-0.05,0.29-5.38,29.09-13.43,41.34C34,53.78,21.73,57.18,21.61,57.22z"/>
+				</g>
+				<g>
+					<path class="st26" d="M35.22,35.45c-0.18,0-0.36-0.01-0.54-0.03c-10.03-1.28-6-34-5.82-35.4l0.69,0.09
+						c-0.04,0.33-4.12,33.42,5.22,34.62c1.02,0.13,2.03-0.19,3-0.95c7.24-5.7,10.41-33.46,10.44-33.74l0.69,0.08
+						c-0.13,1.15-3.23,28.34-10.7,34.21C37.25,35.07,36.25,35.45,35.22,35.45z"/>
+				</g>
+				<g>
+					<path class="st26" d="M38.33,15.98c-0.68,0-1.29-0.28-1.8-0.83c-2.95-3.13-2.18-14.63-2.14-15.12l0.7,0.05
+						c-0.01,0.12-0.79,11.68,1.96,14.59c0.39,0.41,0.82,0.58,1.31,0.61C41.97,15.25,44.38,4.25,45,0.01l0.69,0.1
+						c-0.09,0.65-2.38,15.82-7.34,15.87C38.34,15.98,38.34,15.98,38.33,15.98z"/>
+				</g>
+			</g>
+			<polygon class="st91" points="15.39,123.71 20.9,144.74 65.74,170.12 65.85,195.82 20.05,195.5 15.05,193.95 			"/>
+			
+				<linearGradient id="SVGID_00000178912551124162588010000002194998630519701436_" gradientUnits="userSpaceOnUse" x1="43.2776" y1="153.4918" x2="43.2776" y2="0.0627">
+				<stop  offset="0" style="stop-color:#010101"/>
+				<stop  offset="1" style="stop-color:#D25E27"/>
+			</linearGradient>
+			<polygon style="opacity:0.2;fill:url(#SVGID_00000178912551124162588010000002194998630519701436_);" points="22.14,0.06 
+				48.26,149.09 58.13,153.49 64.42,0.06 			"/>
+			<polygon class="st93" points="45.35,345.97 39.68,335.56 65.39,335.64 69.47,346.55 			"/>
+			<polygon class="st93" points="42.14,195.42 45.76,198 70.09,198.41 65.6,195.66 			"/>
+			<polygon class="st93" points="39.68,346.21 34.68,335.56 32.33,335.56 36.01,346.21 			"/>
+		</g>
+	</g>
+</g>
+</svg>

@@ -1,11 +1,11 @@
 {
   "$schema": "https://beta.frontmatter.codes/frontmatter.schema.json",
-  "frontMatter.framework.id": "sveltekit",
+  "frontMatter.framework.id": "other",
   "frontMatter.preview.host": "https://3000-zivbk1-projectsamples-xnw9516ms65.ws-us27.gitpod.io",
   "frontMatter.content.autoUpdateDate": true,
   "frontMatter.dashboard.openOnStart": true,
   "frontMatter.content.fmHighlight": true,
-  "frontMatter.content.publicFolder": "sveltekit/static",
+  "frontMatter.content.publicFolder": "",
   "frontMatter.dashboard.mediaSnippet": [
     "<Figure src=\"{mediaUrl}\" title=\"{caption}\" align=\"center\" class=\"max-w-full\" />"
   ],
@@ -43,8 +43,8 @@
   ],
   "frontMatter.content.pageFolders": [
     {
-      "title": "Blog",
-      "path": "sveltekit/src/routes/blog"
+      "title": "_posts",
+      "path": "[[workspace]]/hexo/source/_posts"
     }
   ],
   "frontMatter.content.draftField": {
@@ -96,5 +96,7 @@
         }
       ]
     }
-  ]
+  ],
+  "frontMatter.taxonomy.tags": [],
+  "frontMatter.taxonomy.categories": []
 }

@@ -1,0 +1,30 @@
+---
+title: 2010 / 08 - Timesheet
+sticky: 999
+comments: true
+lang: en
+draft: published
+type: HEXO/post
+sitemap: true
+toc: false
+tocOpen: true
+indexing: true
+display_tag_onHome: true
+recommendedSection: false
+donate: false
+swiper: false
+geolocation: 'Tokyo, Japan'
+copyright: true
+mathjax: false
+share: true
+tags:
+  - migrated from rBlogger.2009
+  - Tokyo
+categories:
+  - Work_仕事
+  - Companies_会社
+  - RBS
+date: 2010-08-29 18:22:38
+---
+
+ .LOG<br><br>AT Day's start: On Board<br>At Day's end&nbsp; : /SigningOff... Otsukare-sama desu.<br><br><br>8:38 2010/08/02 ==&gt; 8:15a - 12p, 1p - 6p [9]<br>TimeTraker.<br>*** NEED to SUBMIT CR for projecT!!~! [still don't have submit access]<br>Chased on all my unresolved ticket request: toolkit-lic.app push&nbsp; &amp;&nbsp; CR permissions.<br>Meeting with Efrain on my "Perform Review.<br>Troubleshooting for Sachin's website issue.<br><br><br>8:38 2010/08/03 ==&gt; 8:15a - 5p, 5:45p - 8:15p [11.5]<br>Worked on the PowerPoint doc for UI proj.<br>Updated LEQ's PC with new useragent.<br>Continued with analyst of inventory and PC breakdown list.<br>Finished compiling all the numbers for PC inventory and breakdown lists.<br>Finished the 1st draft of my UI proj#2 PPT file.<br>20:11 2010/08/03<br><br><br>19:14 2010/08/04 ==&gt; 8:30a - 7:45p [11.75]<br>ReRan the numbers again to include all 4.5 and 4.6 PCs for HW refresh.<br>Updated the presentation for UI project.<br>Meeting with Efrain - UI project<br>Troubleshot Sachin's ebbsspot.com login issue -- needed to install additional software<br>Advised Tomomi-san on her login lockout issues.<br>Finished building John Gorman's replacement PC. He started testing it.<br>Chased HP on broken PCs.<br>Help Gupta with PC monitor.<br>19:32 2010/08/04<br><br><br>9:29 2010/08/05 ==&gt; 8:45a - 12p, 1p - 7:15p [9.5]<br>Built new PC for Gupta-san<br>Submitted CR for September rollouts.<br>Chased Package team for Pete.M's clientTools2005 issue.<br>SD weekly meet.<br>worked with the gateway guys to collect the remaining 4.0 PCs from 9th floor.<br>Installed Gupta's new PC and reclaimed his existing z400.<br><br><br>8:51 2010/08/06 ==&gt; 8:30a - 12p, 1p - 8p [11.5]<br>Begun the rollout prep's.<br>Chased John.G. and Wada-san on 4.0PCs<br>Built new PC for Carl Bosley.<br>Meeting with Gateway-Murakami-san<br>Installed John Gorman's new 4.6PC<br>Rebuilt all of Tim.Berlett's 5xPCs to 4.6<br>Worked with HP to repair 2x z400 PCs.<br><br><br>8:54 2010/08/09 ==&gt; 8:30a - 1:30p, 3p - 7:30p [9.5]<br>TimeTraker.<br>Network scan - 4.0PC count increased to 8!!! WTF!<br>Started building PCs!!&nbsp; Prep'ing for migrating users.<br>Chased on remaining 5 4.0PCs.<br>Built new PC for RENDESR (replace 4.0)<br>Meeting with Gateway - Got my engineers!!! yea!<br>NOTIFIED upgrade users...<br>Swapped Stephen Rendell's 4.0 box.<br>***&nbsp; NEED to automate email notification to users!!!<br><br><br>21:00 2010/08/10 ==&gt; 10a - 2p, 3p - 9:15p [10.25]<br>Chased on my 4.0 users.<br>Troubleshoot issues with trader's PC.<br>**Began creating script to automate email notification...<br>NOTIFIED upgrade users...<br>UI team meet<br>Rolled out 6 PCs to 4.6<br>Ran through my schedule for this week -- rearranged as needed.<br>21:10 2010/08/10<br><br><br>22:31 2010/08/11 ==&gt; 10a - 2p, 3p - 10:30p [11.5]<br>User Notify. PC builds. PC deployments x 5.<br>Chased on remaining 4.0 boxes. Wada-san &amp; Ogura-san.<br>Removed one phantom 4.0 box from the trade floor.<br>Updated schedule per user requests<br>DataWall PC troubleshooting<br><br><br>21:02 2010/08/12 ==&gt; 10a - 1:30p, 3p - 9p [9.5]<br>Finished creating my automated notification system for rollouts!!!<br>Troubleshot issues with PDF toolbar on IE7(GWD4.6) -- taught user how to CTRL   P...<br>User Notify. PC builds. PC deployments x 2.<br>Installed 3rd monitor for Simon Holland.<br>troubleshot build issue for 99619 (ONOHA-san) replacement pc.<br><br><br>0:36 2010/08/13 ==&gt; 9:45a - 1:30p, 3p - 7p, 9p - 00:45p [11.5]<br>User troubleshooting and rescheduling.<br>User Notify. PC builds. <br>Prep'd PC deployments. Took 14 PCs to Atago for spare and install.<br><br><br>00:00 2010/08/14 ==&gt; 3p - 6p [3]<br>Deployed 6 PCs @ Atago. Rebuilt Aika's PC ** will return tomorrow to install**<br><br><br>15:20 2010/08/15 ==&gt; 2p - 3:30p [1.5]<br>Deployed 3x PCs@SMC and 1x @Atago<br><br><br>12:55 2010/08/16 ==&gt; 10a - 13:30, 14:30 - 24:30p [13.5]<br>User troubleshooting and rescheduling.<br>User Notify. PC builds. <br>GateWay engineers arrived!<br><br><br>13:21 2010/08/17 ==&gt; 10a - 13:30, 14:30 - 24:30p [9.5]<br>User troubleshooting and rescheduling.<br>User Notify. PC builds. <br>Swapped out Wada-san's old PC! (finally)<br><br><br>22:08 2010/08/18 ==&gt; 10:45a - 10:15p (no lunch) [11.5]<br><br><br>00:00 2010/08/14 ==&gt; 10a - 11p (no lunch) [13]<br><br><br>15:02 2010/08/20 ==&gt; 10a - 6:15p (no lunch) [8]<br><br><br>17:01 2010/08/22 ==&gt; 4p - 7:45p [3.75]<br>SMC &amp; Atago deployments<br>19:39 2010/08/22 <br><br><br>21:04 2010/08/23 ==&gt; 1p - 10:30p [9.5]<br>User notifications. PC prep. User troubleshooting.<br>Atago deployments -- DHCP problem! Contacted networking team.<br><br><br>22:27 2010/08/24 ==&gt; 12p - 12:45a [12.75]<br>User notifications. PC prep. User troubleshooting.<br>Meeting with Carl over PRS rollouts.<br>SMC deployments. Old PC collection.<br>*Defered Atago deployments for tomorrow - due to lack of time.<br>Requested Network team to assist in finding 2 more PCs...<br>0:40 2010/08/25<br><br><br>13:53 2010/08/25 ==&gt; 12p - 4:15p, 5p - 10:30p [9.75]<br>User notifications. PC prep. <br>User troubleshooting.<br>Old PC collection.<br>Network team refuses to assist in finding PCs...<br><br><br>12:34 2010/08/26 ==&gt; 12p - 11:30p [11.5]<br>User notifications. PC prep. <br>SD weekly meet.<br>Atago deployments. HR room map update<br>Hunt&amp;seek PCs @ SMC!... :\\\\ BAD MAP<br><br><br>11:42 2010/08/27 ==&gt; 12p - 6p [6]<br>PC prep. <br><br><br>13:59 2010/08/30 ==&gt; 12:45p - 6:15p [5.5]<br>TimeTraker.<br>Yokohama Planning.<br>18:14 2010/08/30

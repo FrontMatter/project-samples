@@ -3,19 +3,41 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
+title: Hexo test for FrontMatter.io
+subtitle: FrontMatter CMS for Hexo
+description: Debugging FrontMatter to use with HEXO
 keywords:
-author: John Doe
-language: en
-timezone: ''
+  - Hexo
+  - FrontMatter.io
+  - Debugging
+author: https://github.com/lorezyra
+language: 
+  - en
+  - ja
+timezone: 'Asia/Tokyo'
 
+
+## https://ogp.me
+OpenGraph: ## default values for site [can be overridden by `page.OpenGraph` values]
+  image: /img/logoImage.png
+  imageAlt: 'Richie Bartlett'
+  facebook:
+    admins: ''
+    app_id: '' ## https://developers.facebook.com/docs/development/create-an-app
+  twitter: ## https://developer.twitter.com/en/docs/twitter-for-websites/cards/guides/getting-started#display
+    image: /img/R/LEGObtc_thumbsUp.png
+    card: 'summary_large_image' ## [“summary”, “summary_large_image”, “app”, or “player”]
+    creator: '@LoreZyra'
+    site: '@LoreZyra'
+    domain: 'Blog.RichieBartlett.com'
+  siteName: 'Blog.RichieBartlett.com'
+  
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: http://example.com
-permalink: :year/:month/:day/:title/
+permalink: :year/:month:day/:title.html
 permalink_defaults:
+  lang: en
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
   trailing_html: true # Set to false to remove trailing '.html' from permalinks
@@ -23,28 +45,63 @@ pretty_urls:
 # Directory
 source_dir: source
 public_dir: public
-tag_dir: tags
-archive_dir: archives
-category_dir: categories
-code_dir: downloads/code
-i18n_dir: :lang
+tag_dir: tag
+archive_dir: archive
+category_dir: category
+code_dir: code
+i18n_dir: lang
 skip_render:
+  - _posts/**/*.json
+  - _posts/**/*.yml
+  - _posts/**/*.txt
+  - _posts/**/*.js
+  - _posts/**/*.css
+  - _posts/**/*.xml
+  - _posts/**/*.svg
+  - _posts/**/*.ai
+  - _posts/**/*.pdf
+  - _posts/**/*.zip
+  - themes/**/*.yml
+  - themes/**/*.json
 
 # Writing
+## new_post_name: :lang/:title.md # File name of new posts with multilingual support
 new_post_name: :title.md # File name of new posts
 default_layout: post
-titlecase: false # Transform title into titlecase
+titlecase: true # Transform title into TitleCase
 external_link:
   enable: true # Open external links in new tab
   field: site # Apply to the whole site
   exclude: ''
 filename_case: 0
 render_drafts: false
-
 post_asset_folder: true
 marked:
   prependRoot: true
   postAsset: true
+
+markdown:
+  preset: 'default'
+  render:
+    html: true
+    xhtmlOut: true
+    langPrefix: 'language-'
+    breaks: true
+    linkify: true
+    typographer: true
+    quotes: '“”‘’'
+  enable_rules:
+  disable_rules:
+  plugins:
+  anchors:
+    level: 2
+    collisionSuffix: ''
+    permalink: false
+    permalinkClass: 'header-anchor'
+    permalinkSide: 'left'
+    permalinkSymbol: '¶'
+    case: 0
+    separator: '-'
 
 relative_link: false
 future: true
@@ -52,14 +109,14 @@ highlight:
   enable: true
   line_number: true
   auto_detect: false
-  tab_replace: ''
+  tab_replace: '    '
   wrap: true
-  hljs: false
+  hljs: true
 prismjs:
   enable: false
   preprocess: true
   line_number: true
-  tab_replace: ''
+  tab_replace: '    '
 
 # Home page setting
 # path: Root path for your blogs index page. (default = '')
@@ -83,28 +140,95 @@ meta_generator: true
 ## Hexo uses Moment.js to parse and display date
 ## You can customize the date format as defined in
 ## http://momentjs.com/docs/#/displaying/format/
-date_format: YYYY-MM-DD
+date_format: YYYY-MMM-DD
 time_format: HH:mm:ss
 ## updated_option supports 'mtime', 'date', 'empty'
 updated_option: 'mtime'
 
 # Pagination
 ## Set per_page to 0 to disable pagination
-per_page: 10
+per_page: 15
 pagination_dir: page
 
 # Include / Exclude file(s)
 ## include:/exclude: options only apply to the 'source/' folder
 include:
-exclude:
-ignore:
+exclude: 
+ignore: 
 
 # Extensions
 ## Plugins: https://hexo.io/plugins/
-## Themes: https://hexo.io/themes/
-theme: landscape
+plugins:
+  # https://github.com/LouisBarranqueiro/hexo-footnotes
+  # https://github.com/hexojs/hexo-renderer-markdown-it
+  # https://blog.eson.org/pub/dec3cfee/
+  # https://github.com/superalsrk/hexo-pdf/
+  # https://github.com/tea3/hexo-tag-twitter
+  # https://github.com/HCLonely/hexo-calendar
+  # https://github.com/hexojs/hexo-generator-feed
+  # https://github.com/quocvu/hexo-tag-youtube-responsive
+  # https://github.com/tuanna-hsp/hexo-tag-wikipedia
+  # https://github.com/willin/hexo-wordcount
+  # https://github.com/msudgh/hexo-breadcrumb
 
-# Deployment
-## Docs: https://hexo.io/docs/one-command-deployment
-deploy:
-  type: ''
+
+
+## Themes: https://hexo.io/themes/
+#theme: landscape
+theme: 2021.richiebartlett.com
+
+## https://github.com/ludoviclefevre/hexo-generator-seo-friendly-sitemap
+sitemap:
+    path: sitemap.xml
+    tag: true
+    category: true
+
+## https://github.com/wzpan/hexo-generator-search
+search:
+  path: search.xml
+  field: post
+  content: true
+  root: /
+  # template: ./search.xml
+
+breadcrumb:
+  display: true
+ # homepage:
+ #   title: Home
+ #   url: http://blog.RichieBartlett.com # should be absolute address
+
+# Generate categories from directory-tree
+# Dependencies: https://github.com/xu-song/hexo-auto-category
+# depth: the max_depth of directory-tree you want to generate, should > 0
+auto_category:
+ enable: true
+ depth: 
+
+ 
+#  https://github.com/hexojs/hexo-generator-feed
+ feed:
+  enable: true
+  type: ['atom', 'rss2']
+  path: [atom.xml, rss2.xml]
+  limit: 20
+  hub:
+  content:
+  content_limit: 280
+  content_limit_delim: ' '
+  order_by: -date
+  icon: icon.png
+  autodiscovery: true
+  template:
+
+# https://github.com/next-theme/hexo-filter-mathjax
+mathjax:
+  tags: all # none # or 'ams' or 'all'
+  single_dollars: true # enable single dollar signs as in-line math delimiters
+  cjk_width: 0.9 # relative CJK char width
+  normal_width: 0.6 # relative normal (monospace) width
+  append_css: true # add CSS to pages rendered by MathJax
+  every_page: false # if true, every page will be rendered by MathJax regardless the `mathjax` setting in Front-matter
+
+footnote:
+  location_target_class: FootnoteTarget
+

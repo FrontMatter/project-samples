@@ -1,5 +1,5 @@
 {
-  "$schema": "https://beta.frontmatter.codes/frontmatter.schema.json",
+  "$schema": "https://frontmatter.codes/frontmatter.schema.json",
   "frontMatter.taxonomy.contentTypes": [
     {
       "name": "default",
@@ -31,7 +31,8 @@
         {
           "title": "Is in draft",
           "name": "draft",
-          "type": "draft"
+          "type": "choice",
+          "choices": ["draft", "in progress", "published"]
         },
         {
           "title": "Tags",
@@ -41,19 +42,439 @@
         {
           "title": "Categories",
           "name": "categories",
-          "type": "categories"
+          "type": "categories",
+          "hidden": true
+        }
+      ]
+    },
+    {
+      "name": "HEXO/post",
+      "pageBundle": false,
+      "previewPath": null,
+      "fields": [
+        {
+          "title": "Title",
+          "name": "title",
+          "type": "string",
+          "editable": true,
+          "required": true
+        },
+        {
+          "title": "Slug",
+          "name": "slug",
+          "type": "slug",
+          "editable": true,
+          "default": "{{slug}}"
+        },
+        {
+          "title": "Description",
+          "name": "excerpt",
+          "type": "string",
+          "editable": true
+        },
+        {
+          "title": "Post Image (PNG / JPG / SVG)",
+          "name": "img",
+          "editable": true,
+          "type": "image",
+          "description": "This is the main photo displayed on the website. SVG is recommended, but sometimes not possible if too complex.",
+          "isPreviewImage": true
+        },
+        {
+          "title": "OpenGraph image (JPG / PNG)",
+          "name": "openGraph_img",
+          "type": "image",
+          "description": "This is the image used by FB, Twitter, or any social media site. SVG _not_ supported.",
+          "default": false,
+          "editable": true
+        },
+        {
+          "title": "Publish date",
+          "name": "date",
+          "type": "datetime",
+          "default": "{{now}}",
+          "isPublishDate": true,
+          "editable": false,
+          "required": true
+        },
+        {
+          "title": "Updated time",
+          "name": "updated",
+          "type": "datetime",
+          "default": "{{now}}",
+          "editable": false,
+          "single": true,
+          "isModifiedDate": true
+        },
+        {
+          "title": "Tags",
+          "name": "tags",
+          "type": "tags",
+          "description": "Tags should be limited to a absolute max of 7; \n Ideally 3...",
+          "taxonomyLimit": 10,
+          "editable": true
+        },
+        {
+          "title": "Categories",
+          "name": "categories",
+          "type": "categories",
+          "description": "this is replaced by the HEXO plug-in [hexo-auto-category](https://github.com/xu-song/hexo-auto-category)",
+          "hidden": true
+        },
+        {
+          "title": "Post Language",
+          "name": "lang",
+          "type": "string",
+          "description": "{ [ISO 639-1 Code](https://en.wikipedia.org/wiki/ISO_639-1) }",
+          "default": "en",
+          "editable": true,
+          "single": true,
+          "required": true
+        },
+        {
+          "name": "divider",
+          "type": "divider"
+        },
+        {
+          "title": "Pin this post at top?",
+          "name": "sticky",
+          "description": "Select a priority between 1 and 98 (1 = very top) for this post to be displayed.",
+          "type": "number",
+          "default": 999,
+          "editable": true,
+          "single": true
+        },
+        {
+          "title": "Enable comments?",
+          "name": "comments",
+          "type": "boolean",
+          "description": "Enable DISQUS tool for comments?",
+          "default": true,
+          "editable": true,
+          "single": true
+        },
+        {
+          "title": "Enable ToC?",
+          "name": "toc",
+          "type": "boolean",
+          "description": "Display the Table of Contents?",
+          "default": true,
+          "editable": true,
+          "single": true
+        },
+        {
+          "title": "Default ToC open?",
+          "name": "tocOpen",
+          "type": "boolean",
+          "description": "Should the Table of Contents be open already?",
+          "default": true,
+          "editable": true,
+          "single": true
+        },
+        {
+          "title": "Allow indexing and search for this post's contents?",
+          "name": "indexing",
+          "type": "boolean",
+          "default": true,
+          "editable": true,
+          "single": true
+        },
+        {
+          "title": "Display tags on Home?",
+          "name": "display_tag_onHome",
+          "type": "boolean",
+          "description": "Show the tags for this post in the feed pages?",
+          "default": true,
+          "editable": true,
+          "single": true
+        },
+        {
+          "title": "Show in top recommended section on home page?",
+          "name": "recommendedSection",
+          "type": "boolean",
+          "description": "Display this post in the recommended section below the top 'HERO' banner?",
+          "default": false,
+          "editable": true,
+          "single": true
+        },
+        {
+          "title": "Show donate button?",
+          "name": "donate",
+          "type": "boolean",
+          "description": "This is great for crowd funding your work. However, don't enable this for copy/paste news reports.",
+          "default": false,
+          "editable": true,
+          "single": true
+        },
+        {
+          "title": "Enable MathJax",
+          "name": "mathjax",
+          "type": "boolean",
+          "description": "If using math formulas, good to enable this.",
+          "default": false,
+          "editable": true,
+          "single": true
+        },
+        {
+          "title": "Show share icons?",
+          "name": "share",
+          "type": "boolean",
+          "description": "Display the SNS icons or bot to share this post.",
+          "default": true,
+          "editable": true,
+          "single": true
+        },
+        {
+          "name": "divider",
+          "type": "divider"
+        },
+        {
+          "title": "Display copyright notice on post?",
+          "name": "copyright",
+          "type": "boolean",
+          "description": "Should enable this if copied from other _copyrighted_ source... Or, if you have copyrighted it, then enable.",
+          "default": true,
+          "editable": true,
+          "single": true
+        },
+        {
+          "title": "source Url",
+          "name": "sourceUrl",
+          "description": "Original post where this was copy/pasted.",
+          "editable": true,
+          "single": true
+        },
+        {
+          "title": "source Author",
+          "name": "sourceAuthor",
+          "description": "{First_name} {LAST_NAME} -or- '@username'",
+          "editable": true
+        },
+        {
+          "title": "source Author Image",
+          "name": "sourceAuthorImg",
+          "default": false,
+          "editable": true
+        },
+        {
+          "title": "source Publisher Date",
+          "name": "sourcePublishDate",
+          "default": false,
+          "editable": true,
+          "single": true
+        },
+        {
+          "title": "copyLicense",
+          "name": "copyLicense",
+          "type": "string",
+          "description": "What type of license is this documented under? MIT/CC/Apache/etc.",
+          "default": false,
+          "editable": true,
+          "single": true
+        },
+        {
+          "title": "copyLicense URL",
+          "name": "copyLicenseURL",
+          "type": "string",
+          "description": "URL where the license is fully explained.",
+          "default": false,
+          "editable": true,
+          "single": true
+        },
+        {
+          "title": "copyLicense Description",
+          "name": "copyLicenseDesc",
+          "type": "string",
+          "default": false,
+          "editable": true
+        },
+        {
+          "name": "divider",
+          "type": "divider"
+        },
+        {
+          "title": "Location on Earth",
+          "name": "geolocation",
+          "type": "string",
+          "description": "Provide either a coordinate or text string that Google Maps can display. Where did you write this post?",
+          "default": "'Chiba, Japan'",
+          "editable": true,
+          "single": true
+        },
+        {
+          "title": "Read Time (autogenerated)",
+          "name": "readTime",
+          "type": "number",
+          "editable": false,
+          "default": false,
+          "single": true,
+          "hidden": true
+        },
+        {
+          "title": "Word Count (autogenerated)",
+          "name": "wordCount",
+          "type": "number",
+          "default": false,
+          "editable": false,
+          "single": true,
+          "hidden": true
+        },
+        {
+          "title": "Draft Status",
+          "name": "draft",
+          "type": "choice",
+          "choices": ["draft", "in progress", "published"],
+          "default": "draft",
+          "single": true,
+          "editable": true
+        },
+        {
+          "title": "Add to sitemap?",
+          "name": "sitemap",
+          "type": "boolean",
+          "description": "Enabling this allows search engines to be aware of your articles/content.",
+          "default": true,
+          "single": true,
+          "editable": true
+        },
+        {
+          "title": "type",
+          "name": "type",
+          "type": "string",
+          "default": "HEXO/post",
+          "hidden": true
+        }
+      ]
+    },
+    {
+      "name": "HEXO/page",
+      "pageBundle": true,
+      "fields": [
+        {
+          "title": "Title",
+          "name": "title",
+          "type": "string",
+          "editable": true,
+          "required": true
+        },
+        {
+          "title": "Description",
+          "name": "description",
+          "type": "string",
+          "editable": true
+        },
+        {
+          "title": "Page Image",
+          "name": "img",
+          "editable": true,
+          "type": "string",
+          "isPreviewImage": true
+        },
+        {
+          "title": "Publish date",
+          "name": "date",
+          "type": "datetime",
+          "default": "{{now}}",
+          "isPublishDate": true,
+          "editable": false,
+          "required": true
+        },
+        {
+          "title": "layout",
+          "name": "layout",
+          "type": "string",
+          "default": "page"
+        },
+        {
+          "title": "Allow indexing and search for this post's contents?",
+          "name": "indexing",
+          "type": "boolean",
+          "default": true,
+          "editable": true,
+          "single": true
         }
       ]
     }
   ],
-  "frontMatter.framework.id": "other",
-  "frontMatter.content.publicFolder": "",
+  "frontMatter.taxonomy.tags": [],
+  "frontMatter.taxonomy.categories": [],
+  "frontMatter.content.defaultFileType": "md",
+  "frontMatter.content.fmHighlight": true,
+  "frontMatter.content.hideFm": false,
   "frontMatter.content.pageFolders": [
     {
-      "title": "posts",
+      "title": "Scaffolds",
+      "path": "[[workspace]]/scaffolds",
+      "excludeSubdir": true
+    },
+    {
+      "title": "Pages",
+      "path": "[[workspace]]/source",
+      "excludeSubdir": true
+    },
+    {
+      "title": "Posts",
       "path": "[[workspace]]/source/_posts"
+    },
+    {
+      "title": "Drafts",
+      "path": "[[workspace]]/source/_drafts"
     }
   ],
-  "frontMatter.taxonomy.tags": [],
-  "frontMatter.taxonomy.categories": []
+  "frontMatter.content.publicFolder": "[[workspace]]/public",
+  "frontMatter.data.folders": [
+    {
+      "id": "HEXO/data",
+      "title": "Custom data",
+      "file": "[[workspace]]/source/data/*.json",
+      "fileType": "json"
+    },
+    {
+      "id": "sponsors",
+      "title": "Sponsors",
+      "file": "[[workspace]]/source/data/sponsors.json",
+      "fileType": "json",
+      "labelField": "name",
+      "schema": {
+        "title": "Sponsors",
+        "type": "object",
+        "required": [
+          "name",
+          "url"
+        ],
+        "properties": {
+          "name": {
+            "type": "string",
+            "title": "Name"
+          },
+          "url": {
+            "type": "string",
+            "title": "URL"
+          },
+          "description": {
+            "type": "string",
+            "title": "Description"
+          }
+        }
+      }
+    }
+  ],
+  "frontMatter.file.preserveCasing": true,
+  "frontMatter.framework.id": "HEXO",
+  "frontMatter.framework.startCommand": "hexo clean && hexo server",
+  "frontMatter.preview.host": "http://127.0.0.0:4000/",
+  "frontMatter.preview.pathName": "{{year}}/{{month}}{{day}}/{{slug}}.html",
+  "frontMatter.taxonomy.dateFormat": "YYYY/MM/dd",
+  "frontMatter.taxonomy.frontMatterType": "YAML",
+  "frontMatter.taxonomy.seoContentLength": 2400, 
+  "frontMatter.taxonomy.indentArrays": true,
+  "frontMatter.templates.enabled": true,
+  "frontMatter.templates.folder": ".frontmatter/templates",
+  "frontMatter.templates.prefix": "",
+  "frontMatter.content.draftField": {
+    "name": "draft",
+    "type": "choice",
+    "choices": ["draft", "in progress", "published"]
+  },
+  "frontMatter.dashboard.content.pagination": true
 }

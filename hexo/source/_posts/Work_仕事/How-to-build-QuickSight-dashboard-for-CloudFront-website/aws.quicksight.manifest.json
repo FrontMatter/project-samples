@@ -1,0 +1,12 @@
+{
+    "fileLocations": [
+        {
+            "URIPrefixes": [
+                "https://richbartlett-log.s3.ap-northeast-1.amazonaws.com/"
+            ]
+        }
+    ],
+    "globalUploadSettings": {
+        "format": "ELF"
+    }
+}

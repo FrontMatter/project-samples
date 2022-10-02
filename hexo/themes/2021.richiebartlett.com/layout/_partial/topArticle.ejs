@@ -1,0 +1,50 @@
+<%
+  var hashCode = function (str) {
+      if (!str && str.length === 0) {
+          return 0;
+      }
+
+      var hash = 0;
+      for (var i = 0, len = str.length; i < len; i++) {
+          hash = ((hash << 5) - hash) + str.charCodeAt(i);
+          hash |= 0;
+      }
+      return hash;
+  };
+%>
+
+<% if (page.current === 1 && theme.topArticle.on === true) { %>
+<div class="topArticle" data-aos="<%= theme.aos.animate || 'fade-up' %>">
+	<h3><i class="fa fa-thumbs-o-up" aria-hidden="true"></i><%= __('recommendedArticles') %></h3>
+	<div class="articles">
+		<% site.posts.sort('-date').each(function (post, i) { %>
+			<% if(post.recommendedSection) { %>
+				<div class="article-link">
+					<%
+						var img = '/img/AdobeStock_86171113.svg';
+						var imgs = theme.imgs;
+						if (!imgs || imgs.length === 0) {
+							return img;
+						}
+						img = imgs[Math.abs(hashCode(post.title) % imgs.length)]
+					%>
+					<div class="article lazyload" data-original="<%- url_for(post.img  || post.swiperImg || img) %>" style="background-size: cover; 
+						background-position: center center;">
+					</div>
+					<div class="text">
+						<div class="text-main">
+							<div class="title"><a href="<%- url_for(post.path) %>"><%= post.title %></a></div>
+							<div class="content">
+								<%- truncate(strip_html(post.excerpt || post.content), {length: 80,  separator: ' ', omission: ' ⋯'}) %>
+							</div>
+						</div>
+						<a href="<%- url_for(post.path) %>" class="more">
+							<i class="fa fa-eye" aria-hidden="true"></i><%= __('readMore') %>
+						</a>
+					</div>
+				</div>
+			<% } %>
+		<% }) %>
+	</div>
+</div>
+<% } %>

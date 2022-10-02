@@ -1,0 +1,148 @@
+{
+	"StorageDescriptor": {
+		"cols": {
+			"FieldSchema": [
+				{
+					"name": "bucket_owner",
+					"type": "string",
+					"comment": ""
+				},
+				{
+					"name": "bucket",
+					"type": "string",
+					"comment": ""
+				},
+				{
+					"name": "remote_ip",
+					"type": "string",
+					"comment": ""
+				},
+				{
+					"name": "requester",
+					"type": "string",
+					"comment": ""
+				},
+				{
+					"name": "request_id",
+					"type": "string",
+					"comment": ""
+				},
+				{
+					"name": "operation",
+					"type": "string",
+					"comment": ""
+				},
+				{
+					"name": "key",
+					"type": "string",
+					"comment": ""
+				},
+				{
+					"name": "request_uri",
+					"type": "string",
+					"comment": ""
+				},
+				{
+					"name": "http_status",
+					"type": "int",
+					"comment": ""
+				},
+				{
+					"name": "error_code",
+					"type": "string",
+					"comment": ""
+				},
+				{
+					"name": "bytes_sent",
+					"type": "int",
+					"comment": ""
+				},
+				{
+					"name": "object_size",
+					"type": "int",
+					"comment": ""
+				},
+				{
+					"name": "total_time",
+					"type": "int",
+					"comment": ""
+				},
+				{
+					"name": "turn_around_time",
+					"type": "int",
+					"comment": ""
+				},
+				{
+					"name": "referer",
+					"type": "string",
+					"comment": ""
+				},
+				{
+					"name": "user_agent",
+					"type": "string",
+					"comment": ""
+				},
+				{
+					"name": "version_id",
+					"type": "string",
+					"comment": ""
+				},
+				{
+					"name": "host_id",
+					"type": "string",
+					"comment": ""
+				},
+				{
+					"name": "signature_version",
+					"type": "string",
+					"comment": ""
+				},
+				{
+					"name": "cipher_suite",
+					"type": "string",
+					"comment": ""
+				},
+				{
+					"name": "authentication_type",
+					"type": "string",
+					"comment": ""
+				},
+				{
+					"name": "host_header",
+					"type": "string",
+					"comment": ""
+				},
+				{
+					"name": "tls_version",
+					"type": "string",
+					"comment": ""
+				},
+				{
+					"name": "access_point_arn",
+					"type": "string",
+					"comment": ""
+				}
+			]
+		},
+		"location": "s3://richbartlett-log/",
+		"inputFormat": "org.apache.hadoop.mapred.TextInputFormat",
+		"outputFormat": "org.apache.hadoop.hive.ql.io.HiveIgnoreKeyTextOutputFormat",
+		"compressed": "false",
+		"numBuckets": "0",
+		"SerDeInfo": {
+			"name": "csv",
+			"serializationLib": "org.apache.hadoop.hive.serde2.OpenCSVSerde",
+			"parameters": {
+				"separatorChar": " "
+			}
+		},
+		"bucketCols": [],
+		"sortCols": [],
+		"parameters": {},
+		"SkewedInfo": {},
+		"storedAsSubDirectories": "false"
+	},
+	"parameters": {
+		"classification": "csv"
+	}
+}
