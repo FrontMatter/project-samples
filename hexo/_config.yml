@@ -16,6 +16,22 @@ language:
   - ja
 timezone: 'Asia/Tokyo'
 
+
+## https://ogp.me
+OpenGraph: ## default values for site [can be overridden by `page.OpenGraph` values]
+  image: /img/logoImage.png
+  imageAlt: 'Richie Bartlett'
+  facebook:
+    admins: ''
+    app_id: '' ## https://developers.facebook.com/docs/development/create-an-app
+  twitter: ## https://developer.twitter.com/en/docs/twitter-for-websites/cards/guides/getting-started#display
+    image: /img/R/LEGObtc_thumbsUp.png
+    card: 'summary_large_image' ## [“summary”, “summary_large_image”, “app”, or “player”]
+    creator: '@LoreZyra'
+    site: '@LoreZyra'
+    domain: 'Blog.RichieBartlett.com'
+  siteName: 'Blog.RichieBartlett.com'
+  
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: http://example.com
