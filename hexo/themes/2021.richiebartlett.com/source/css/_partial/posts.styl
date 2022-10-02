@@ -1,0 +1,173 @@
+// 首页文章列表
+.posts  {
+   width: 60%;
+   margin: 0 auto;
+   margin-bottom: 20px;
+   h3 {
+    color: #273849;
+    border-bottom: 1px solid #273849;
+   }
+  .post {
+    box-shadow: 0 1px 20px -6px rgba(0,0,0,.5);
+    width: 100%;
+    height: 300px;
+    display: flex;
+    margin-top: 30px;
+    background: convert(hexo-config('color_scheme.common.postListBackground'));
+    border-radius: 10px;
+    overflow: hidden;
+    // &:nth-child(odd) {
+    //   flex-direction: row-reverse;
+    // } // 可以直接用css不用js
+    .post-main {
+      flex: 1;
+      padding: 20px 40px;
+      box-sizing: border-box;
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+    }
+    .post-img {
+      flex: 1;
+      height: 100%;
+      overflow: hidden;
+      a {
+        display: block;
+        width: 100%;
+        height: 100%;
+        transition: all 0.5s;
+        if hexo-config('loadingImg') {
+          background-image: url(hexo-config('loadingImg'));
+        }
+        &:hover {
+          transform:scale(1.2);
+        }
+        img {
+          // width: 100%;
+          object-fit: cover;
+        }
+      }
+      
+    }
+  }
+
+  .post-info {
+    flex: 1;
+  }
+
+  .post-title {
+    font-size: 1.4em;
+    margin-top: 10px;
+    .post-title-link {
+      color: #273849;
+      text-decoration: none;
+      font-weight: 700;
+      transition: all 0.3s;
+      &:hover {
+        color: #42b983!important;
+      }
+    }
+  }
+
+  .post-meta {
+    display: flex;
+    margin-top: 10px;
+  }
+
+  .post-img-mobile {
+    display: none;
+    overflow: hidden;
+    a {
+      display: block;
+      width: 100%;
+      height: 100%;
+      transition: all 0.5s;
+      if hexo-config('loadingImg') {
+        background-image: url(hexo-config('loadingImg'));
+      }
+      &:hover {
+        transform:scale(1.2);
+      }
+      img {
+        // width: 100%;
+        object-fit: cover;
+      }
+    }
+    height: 210px;
+    margin: 10px 0;
+    border-radius: 10px;  
+  }
+
+  .post-more {
+    line-height: 30px;
+    a {
+      color: #273849;
+    }
+    i {
+      font-size: 1.8rem; 
+      cursor pointer;
+      transition: all 0.3s;
+      &:hover {
+        color: #42b983;
+      }
+    } 
+  }
+
+  .post-content {
+    color: rgba(0,0,0,.66);
+    margin-top: 10px;
+    min-height: 85px;
+    max-height: 105px;
+    a {
+      text-decoration: none;
+    }
+    line-height: 27px;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 4;
+    overflow: hidden;
+  }
+
+  .post-time {
+    color: #888;
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 992px) {
+  .posts  {
+    width: 95%;
+    .post {
+      margin-top: 10px;
+      flex-direction: column!important;
+      height: auto;
+      .post-main {
+        flex: none;
+        padding: 20px;
+      }
+      .post-img-mobile {
+        display: block;
+        height: 350px; 
+      }
+      .post-img {
+        flex: none;
+        height: 210px;
+        margin: 10px 0;
+        border-radius: 10px;
+        display: none;
+      }
+    }
+    .post-more {
+      display: none;  
+    }
+  }
+}
+@media (max-width: 551px) {
+  .posts {
+    .post {
+      .post-img-mobile {
+        height: 210px;  
+      }
+    }  
+  }
+}

@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+  <%- partial('_partial/head') %>
+  <script src="<%- url_for('/js/jquery3.5.1.js') %>"></script>
+  <script src="<%- url_for('/js/vue2.6.11.js') %>"></script>
+  <%- css('js/danmu/barrager.css') %>
+  <script src="<%- url_for('/js/danmu/jquery.barrager.js') %>"></script>
+  <body>
+    <%- partial('_partial/loaded') %>
+    <!-- 判断是否为黑夜模式 -->
+    <script>
+      let isDark = JSON.parse(localStorage.getItem('dark')) || JSON.parse('<%= theme.dark.default %>');
+
+      if (isDark) {
+        $(document.body).addClass('darkModel');
+      }
+    </script>
+
+    <%- partial('_partial/header') %>
+    <main class="main" style="<% if(theme.color_scheme.common.headerMenuTransparent) { %>margin-top: 0;<% } else { %>margin-top: 60px;<% } %>">
+      <%- body %>
+    </main>
+    <%- partial('_partial/footer') %>
+
+    <% if(theme.goTop.on === true ) { %>
+      <%- partial('_partial/goTop') %>
+    <% } %>
+
+    <% if(theme.music.on === true ) { %>
+      <%- partial('_partial/aplayer') %>
+    <% } %>
+
+    <!-- 图片放大 -->
+    <% if(theme.fancybox.on === true ) { %>
+      <script src="<%- url_for('/js/fancybox/fancybox.umd.js') %>"></script>
+      <script src="<%- url_for('/js/wrapImage.js') %>"></script>
+    <% } %>
+
+    
+    <!-- 爱心点击 -->
+    <% if(theme.cursor_effect.on === true) { %>
+      <% if(theme.cursor_effect.type == "fireworks") { %>
+        <script src="<%- url_for('/js/cursor/fireworks.js') %>"></script>
+      <% } else if(theme.cursor_effect.type == "explosion") { %>
+        <canvas class="fireworks" style="position: fixed;left: 0;top: 0;z-index: 999; pointer-events: none;" ></canvas>
+        <script src="<%- url_for('/js/animate/anime.min.js') %>"></script>
+        <script src="<%- url_for('/js/cursor/explosion.min.js') %>"></script>
+      <% } else if(theme.cursor_effect.type == "love") { %> 
+        <script src="<%- url_for('/js/cursor/clicklove.js') %>"></script> 
+      <% } else if(theme.cursor_effect.type == "text") { %>
+        <script src="<%- url_for('/js/cursor/text.js') %>"></script>
+      <% } %>
+    <% } %>
+
+    <%- partial('_partial/analytics/baidu-analytics') %>
+    <%- partial('_partial/analytics/baidu-push') %>
+    
+    <% if(theme.aos.on === true ) { %>
+      <%- partial('_partial/aos') %>
+    <% } %>
+
+    <% if (theme.copy.on){ %>
+      <%- partial('_partial/copy') %>
+    <% } %>
+
+    <!-- 输入框打字特效 -->
+    <% if (theme.inputEffects.on){ %>
+      <%- partial('_partial/inputEffects') %>
+    <% } %>
+
+    <%- partial('_partial/markdown') %>
+
+    <script src="<%- url_for('/js/lazyload/lazyload@1.9.1.js') %>"></script>
+    <script>
+      $(function() {
+        $("div.lazyload, img.lazyload, a.lazyload").lazyload(
+            {
+                effect: "fadeIn",
+                placeholder: "<%= theme.loadingImg %>"
+            }
+        );
+    });
+    </script>
+    
+    <% if(theme.ribbon.on === true ) { %>
+      <%- partial('_partial/ribbon') %>
+    <% } %>
+    
+    <script src="<%- url_for('/js/app.js') %>"></script>
+
+    <% if (theme.addThis.on){ %>
+      <%- partial('_partial/addThis/widget') %>
+    <% } %>
+  </body>
+</html>

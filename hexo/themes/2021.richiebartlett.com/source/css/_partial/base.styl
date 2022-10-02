@@ -1,0 +1,141 @@
+@font-face {
+  font-family: "RageScript";
+  src: url("/font/RAGE.TTF") format('truetype');
+}
+
+body, h1, h2, h3, h4, h5, h6, hr, p, blockquote, dl, dt, dd, ul, ol, li, pre, form, fieldset, legend, button, input, textarea, th, td { margin:0; padding:0; } 
+body, button, input, select, textarea { font:12px/1.5tahoma, arial, \5b8b\4f53; } 
+h1, h2, h3, h4, h5, h6{ font-size:100%; } 
+address, cite, dfn, em, var { font-style:normal; } 
+code, kbd, pre, samp { font-family:couriernew, courier, monospace; } 
+small{ font-size:12px; }
+a { text-decoration:none; }
+a:hover { text-decoration:none; } 
+*, a:active, a:hover {
+  outline: 0;
+}
+sup { vertical-align:text-top; } 
+sub { /* https://gist.github.com/unruthless/413930 */
+  font-size: 75%;
+  bottom: -0.25em;
+  line-height: 0;
+  position: relative;
+} 
+legend { color:#000; } 
+fieldset, img { border:0; } 
+button, input, select, textarea { font-size:100%; } 
+table { border-collapse:collapse; border-spacing:0; }
+// 以上为css初始化
+i,em {
+  font-style: italic;
+}
+
+.header .blog-title a.logo {
+  font-size: 2.8em;
+  font-family: "RageScript", "Comic Sans MS", cursive, LiSu, sans-serif;
+  text-decoration: none;
+}
+
+
+html {
+  background-color: #F2F2F2;
+  // line-height: 1.5;
+  font-size: 16px;
+  cursor: $cursor-default,auto;
+}
+a:hover {
+  cursor: $cursor-pointer,pointer;
+}
+p,
+input,
+pre code,
+textarea, {
+  cursor: $cursor-text,text;
+}
+
+.main {
+  if hexo-config('color_scheme.common.headerMenuTransparent') {
+    min-height: calc(100vh - 130px);
+  } else {
+    min-height: calc(100vh - 190px);
+  }
+  box-sizing: border-box;
+}
+// 背景
+.bg-color {
+  background-color: $color-primary;
+}
+// 回到顶部按钮背景
+.top-btn-color {
+  background-color: $color-primary;
+}
+// 字体
+.color-primary {
+  color: $color-primary!important;
+}
+// a链接
+a {
+  color: $color-link;
+  text-decoration: none;
+}
+// border
+.border-color {
+  border: $border;
+}
+[v-cloak] {
+  display: none; 
+} 
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+}
+// 滚动条
+::-webkit-scrollbar-thumb {
+    if hexo-config('color_scheme.common.scroll') {
+      background-color: $color-scroll;
+    } else {
+      background-color: $color-primary;
+    }
+    // background-image: -webkit-linear-gradient(45deg,rgba(255,255,255,.4) 25%,transparent 25%,transparent 50%,rgba(255,255,255,.4) 50%,rgba(255,255,255,.4) 75%,transparent 75%,transparent);
+    border-radius: 3em;
+}
+::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+}
+pre::-webkit-scrollbar-thumb,
+.toc-aside .toc-content::-webkit-scrollbar-thumb {
+  background: transparent;
+}
+pre:hover::-webkit-scrollbar-thumb,
+.toc-aside .toc-content:hover::-webkit-scrollbar-thumb {
+    background-color: #ccc;
+}
+pre:hover::-webkit-scrollbar-thumb:hover,
+.toc-aside .toc-content:hover::-webkit-scrollbar-thumb:hover {
+  if hexo-config('color_scheme.common.scroll') {
+      background-color: $color-scroll;
+    } else {
+      background-color: $color-primary;
+    }
+}
+// 媒体查询
+@media (max-width: 551px) {
+  html {
+    font-size: 14px;
+  }
+}
+// 鼠标选择背景色
+::-moz-selection{
+  background:$color-selection;
+  color: #fff;
+}
+::selection {
+  background:$color-selection; 
+  color:#fff;
+}
+.bg-floor {
+  background: $bg-floor;
+  background-size: cover;
+  transition: all 0.3s;
+}

@@ -1,0 +1,223 @@
+.post-detail,
+.posts {
+  span.btn {
+    display: inline;
+    a {
+      text-decoration: none
+      border-bottom: none
+      display: inline-block
+      padding: 3px 4px 2px 4px
+      margin: 2px
+      line-height: 1.1
+      border-radius: 2px
+      font-weight: normal
+      i {
+        margin-right: 2px
+      }
+    }
+    & a, &.hollow a {
+      color: $color-primary!important
+      border: 1px solid $color-primary
+      transition: all 0.3s;
+      &:hover {
+        color: $color-danger!important
+        border-color: $color-danger
+      }
+      i {
+        margin-right: 4px
+      }
+    }
+    &.hollow a, &.solid a {
+      padding: 8px 12px
+    }
+    &.solid a {
+      border: none
+      background: $color-primary
+      color: $color-inner!important
+      &:hover {
+        background: $color-danger
+      }
+    }
+    &.large a {
+      font-size: 1rem
+      padding: 12px 32px
+      i {
+        margin-right: 8px
+      }
+    }
+    &.center {
+      display: block
+      text-align: center
+    }
+    &.round a {
+      border-radius: 20px;  
+    }
+    &.warning a {
+      background-color: $color-warning
+      color: $color-inner!important
+      border: none
+      &:hover {
+        background-color: $color-warning + 3 * 8% + 1 * .5deg 
+      }
+    }
+    &.warning.hollow a {
+      border: 1px solid $color-warning + 4 * 8% + 1 * .5deg 
+      background-color: $color-warning + 8 * 10% + 1 * .5deg
+      color: $color-warning!important
+      &:hover {
+        background-color: $color-warning
+        color: #fff!important
+      }
+    }
+    &.info a {
+      background-color: $color-info
+      color: $color-inner!important
+      border: none
+      &:hover {
+        background-color: $color-info + 3 * 8% + 1 * .5deg 
+      }
+    }
+    &.info.hollow a {
+      border: 1px solid $color-info + 4 * 8% + 1 * .5deg 
+      background-color: $color-info + 8 * 10% + 1 * .5deg
+      color: $color-info!important
+      &:hover {
+        background-color: $color-info
+        color: #fff!important
+      }
+    }
+    &.success a {
+      background-color: $color-success
+      color: $color-inner!important
+      border: none
+      &:hover {
+        background-color: $color-success + 3 * 8% + 1 * .5deg 
+      }
+    }
+    &.success.hollow a {
+      border: 1px solid $color-success + 4 * 8% + 1 * .5deg 
+      background-color: $color-success + 8 * 10% + 1 * .5deg
+      color: $color-success!important
+      &:hover {
+        background-color: $color-success
+        color: #fff!important
+      }
+    }
+    &.danger a {
+      background-color: $color-danger
+      color: $color-inner!important
+      border: none
+      &:hover {
+        background-color: $color-danger + 3 * 8% + 1 * .5deg 
+      }
+    }
+    &.danger.hollow a {
+      border: 1px solid $color-danger + 4 * 8% + 1 * .5deg 
+      background-color: $color-danger + 8 * 10% + 1 * .5deg
+      color: $color-danger!important
+      &:hover {
+        background-color: $color-danger
+        color: #fff!important
+      }
+    }
+  }
+}
+
+.post-detail div.btns, .posts div.btns
+  margin: 0 -0.5 * 16px
+  &,p,a
+    font-size: 0.8125rem
+    color: #444
+  b
+    font-size: 0.875rem
+  display: flex
+  flex-wrap: wrap
+  align-items: flex-start
+  overflow: visible
+  line-height: 1.8
+  &.wide>a
+    padding-left: 16px*2
+    padding-right: 16px*2
+  &.fill>a
+    flex-grow: 1
+    width: auto
+  &.around
+    justify-content: space-around
+  &.center
+    justify-content: center
+  &.grid2>a
+    width: calc(50% - 32px)
+  &.grid3>a
+    width: "calc(100%/3 - %s)" % 32px
+    @media screen and (max-width: 551px)
+      width: calc(50% - 32px)
+  &.grid4>a
+    width: "calc(100%/4 - %s)" % 32px
+    @media screen and (max-width: 551px)
+      width: calc(50% - 32px)
+  &.grid5>a
+    width: "calc(100%/5 - %s)" % 32px
+    @media screen and (max-width: 551px)
+      width: calc(50% - 32px)
+  a
+    color: $color-primary!important
+    transition: all 0.3s
+    text-decoration: none
+    border-bottom: none
+    margin: 16px * 0.5
+    margin-top: "calc(1.25 * %s + 32px)" % 16px
+    // min-width: "calc(100%/5 - %s)" % 32px
+    font-weight: bold
+    display: flex
+    justify-content: flex-start
+    align-content: center
+    align-items: center
+    flex-direction: column
+    padding: 16px * 0.5
+    text-align: center
+    &>img:first-child, &>i:first-child
+      transition: all 0.3s
+      height: 64px
+      width: 64px
+      box-shadow: 0 1px 2px 0px rgba(0, 0, 0, 0.1)
+      &.auto
+        width: auto
+      margin: 16px 16px * 0.5 16px * 0.25 16px * 0.5
+      margin-top: "calc(-1.25 * %s - 32px)" % 16px
+      border: 2px solid #fff
+      background: $color-inner
+      line-height: 60px
+      font-size: 28px
+    &>i:first-child
+      color: $color-inner
+      background: $color-primary
+    background: #f6f6f6
+    border-radius: 4px
+    p,b
+      margin: .25em
+      font-weight: normal
+      line-height: 1.25
+      word-wrap: break-word
+    b
+      font-weight: bold
+      line-height: 1.3
+    img
+      margin: .4em auto
+    &:not([href])
+      cursor: default
+      color: inherit
+    &[href]:hover
+      background: alpha($color-danger, 15%)
+      &,b
+        color: $color-danger
+      &>img:first-child, &>i:first-child
+        transform: scale(1.1) translateY(-8px)
+        box-shadow: 0 4px 8px 0px rgba(0, 0, 0, 0.1)
+      &>i:first-child
+        background: $color-danger
+  &.circle a
+    &>img:first-child, &>i:first-child
+      border-radius: 32px
+  &.rounded a
+    &>img:first-child, &>i:first-child
+      border-radius: 16px

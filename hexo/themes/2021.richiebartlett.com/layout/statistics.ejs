@@ -1,0 +1,32 @@
+<%- partial('_partial/post-detail-header', { post: page }) %>
+
+
+<div class="main-content">
+  <div class="post-content">
+    <%- page.content %>
+  </div>
+
+  <% if (typeof(site.tags) === "object") { %>
+  <div class="tags">
+    Tag count:
+    <i class="iconfont icontag"><%= site.tags.length %></i>
+  </div>
+  <% } %>
+
+
+  <% if (typeof(site.categories) === "object") { %>
+    <div class="categories">
+      Category count:
+      <i class="iconfont iconbookmark1"><%= site.categories.length %></i>
+    </div>
+    <% } %>
+
+
+    <% if (typeof(site.posts) === "object") { %>
+      <div class="categories">
+        Post count:
+        <i class="iconfont iconbookmark1"><%= site.posts.length %></i>
+      </div>
+      <% } %>
+      
+</div>

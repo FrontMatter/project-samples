@@ -1,0 +1,71 @@
+categories: 分类
+search: 本地搜索
+tags: 标签
+tagcloud: 标签云
+tweets: 推文
+prev: 上一页
+next: 下一页
+comment: 留言
+archive_a: 归档
+archive_b: 归档：%s
+page: 第 %d 页
+recent_posts: 最新文章
+newer: Newer
+older: Older
+share: Share
+powered_by: Powered by
+rss_feed: RSS Feed
+tag: 标签
+category: 分类
+archives: 归档
+about: 关于
+aboutBasicInfo: 基本信息
+age: 年龄
+sex: 性别
+coordinate: 坐标
+status: 状态
+skill: 技能
+socialAccounts: 社交账号
+game: 游戏
+book: 书籍
+Menu:
+  Home: 首页
+  Archives: 归档
+  Tags: 标签
+  Categories: 分类
+  Github: Github
+  About: 关于
+  link: 友情链接
+
+Paginator:
+  Prev: 上一页
+  Next: 下一页
+
+postCategoryTitle: 文章分类
+postTagTitle: 文章标签
+
+copyright:
+    author: "作者: "
+    link: "文章链接: "
+    license_title: "版权声明: "
+    left_license_content: "本网站所有文章除特别声明外,均采用 "
+    right_license_content: "许可协议。转载请注明出处!"
+
+friends: 友情链接
+keyword: 请输入关键字
+totalReading: 本站总阅读量
+totalVisits: 本站总访问量
+numberVisitors: 本站访客数
+
+lastArticle: 上一篇
+nextArticle: 下一篇
+
+times: 次
+people: 人
+
+recommendedArticles: 推荐文章
+readMore: 阅读更多
+copy: 复制
+paperCatalog: 本文目录
+
+loading: 加载中...

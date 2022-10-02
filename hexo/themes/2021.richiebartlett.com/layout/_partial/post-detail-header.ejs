@@ -1,0 +1,56 @@
+<%
+    var hashCode = function (str) {
+        if (!str && str.length === 0) {
+            return 0;
+        }
+
+        var hash = 0;
+        for (var i = 0, len = str.length; i < len; i++) {
+            hash = ((hash << 5) - hash) + str.charCodeAt(i);
+            hash |= 0;
+        }
+        return hash;
+    };
+%>
+
+<%
+  var img = 'https://ssyerv1.oss-cn-hangzhou.aliyuncs.com/picture/ada660a8c596431983dddd411a12f2b3.jpg!sswm';
+  var imgs = theme.imgs;
+  if (!imgs || imgs.length === 0) {
+      return img;
+  }
+  img = imgs[Math.abs(hashCode(post.title) % imgs.length)]
+%>
+
+<div class="post-detail-header lazyload" id="thumbnail_canvas" data-original="<%- url_for(post.img || post.swiperImg || img) %>" style="background-repeat: no-repeat; background-size: cover; 
+  background-position: center center;position: relative;">
+  <div class="post-detail-header-mask"></div>
+  <canvas id="header_canvas"style="position:absolute;bottom:0;pointer-events:none;"></canvas>
+  <% if (theme.postTitleTop.on === true){ %>
+    <div class="title-box">
+      <% if (theme.typed.on === true) { %>
+        <span class="title" id="post-detail-header-title"></span>
+        <script src="<%- url_for('/js/animate/typed.2.0.11.js') %>"></script>
+          <script>
+            var typed = new Typed("#post-detail-header-title", {
+              strings: ['<%= post.title %>'],
+              startDelay: <%= theme.typed.startDelay %>,
+              typeSpeed: <%= theme.typed.typeSpeed %>,
+              loop: <%= theme.typed.loop %>,
+              backSpeed: <%= theme.typed.backSpeed %>,
+              showCursor: <%= theme.typed.showCursor %>
+            });
+          </script>
+        <% } else {  %>
+          <span class="title">
+            <%= post.title %>
+          </span>
+        <% } %>
+    </div>
+  <% } %>
+  
+  <% if (theme.bubble.on === true) { %>
+    <script src="<%- url_for('/js/bubble/bubble.js') %>"></script>
+  <% } %>
+</div>
+

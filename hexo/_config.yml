@@ -49,7 +49,7 @@ skip_render:
   - themes/**/*.json
 
 # Writing
-## new_post_name: :lang/:title.md # File name of new posts
+## new_post_name: :lang/:title.md # File name of new posts with multilingual support
 new_post_name: :title.md # File name of new posts
 default_layout: post
 titlecase: true # Transform title into TitleCase
@@ -158,7 +158,8 @@ plugins:
 
 
 ## Themes: https://hexo.io/themes/
-theme: landscape
+#theme: landscape
+theme: 2021.richiebartlett.com
 
 ## https://github.com/ludoviclefevre/hexo-generator-seo-friendly-sitemap
 sitemap:
